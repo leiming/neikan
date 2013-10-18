@@ -5,8 +5,9 @@
     <div ng-repeat="mag in magazines">
 
       <div class="col-md-4">
-        <h4>{{mag.name}}</h4><br>
-        <a href="{{mag.link}}"><img src="http://fpoimg.com/203x285" ng-click="clickImg"/></a>
+        <br>
+        <h4>{{mag.name}}</h4>
+        <a href="#/magazine/{{mag.id}}"><img src="http://fpoimg.com/203x285"/></a>
       </div>
     </div>
 

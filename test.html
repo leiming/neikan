@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="zh-CN" ng-app="neikanApp">
+<head>
+  <meta charset="utf-8">
+  <title>neikan</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="lib/css/bootstrap.css" media="screen"/>
+  <link rel="stylesheet" href="css/neikan.css"/>
+  <script src="lib/angular/angular.js"></script>
+  <script src="lib/angular/angular-route.js"></script>
+
+  <script src="js/neikan.js"></script>
+  <script src="js/controller.js"></script>
+</head>
+<body>
+
+
+<div id="carousel" class="carousel slide">
+  <!-- Indicators -->
+  <ol class="carousel-indicators">
+    <li data-target="#carousel" data-slide-to="0" class="active"></li>
+    <li data-target="#carousel" data-slide-to="1"></li>
+    <li data-target="#carousel" data-slide-to="2"></li>
+  </ol>
+
+  <!-- Wrapper for slides -->
+  <div class="carousel-inner">
+    <div class="item active">
+      <img src="http://fpoimg.com/1000x285"/>
+    </div>
+    <div class="item">
+      <img src="http://fpoimg.com/1000x285"/>
+    </div>
+    <div class="item">
+      <img src="http://fpoimg.com/1000x285"/>
+    </div>
+  </div>
+
+  <!-- Controls -->
+  <a class="left carousel-control" href="#carousel" data-slide="prev">
+    <span class="icon-prev"></span>
+  </a>
+  <a class="right carousel-control" href="#carousel" data-slide="next">
+    <span class="icon-next"></span>
+  </a>
+</div>
+
+<script src="http://code.jquery.com/jquery.js"></script>
+<script src="lib/bootstrap/bootstrap.js"></script>
+
+</body>
+</html>
