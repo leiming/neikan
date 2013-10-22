@@ -1,0 +1,56 @@
+<!--{{magId}}
+{{magImages}}
+    {{details}}
+{{aa}}-->
+<div class="container full-container">
+
+  <div style="height: 100px">
+    <ol class="breadcrumb">
+      <li><a href="#">首页</a></li>
+      <li><a href="#/contents/{{magId}}">第{{magId}}期</a></li>
+    </ol>
+  </div>
+
+  <row>
+    <div class="col-md-3">
+      <button data-target="#carousel" ng-repeat="i in magImages" ng-class="{active:$index = (pageId?pageId:0) == i}"
+              data-slide-to="{{i}}">{{i}}
+      </button>
+
+      <ul class="nav nav-pills nav-stacked">
+        <li ng-repeat="i in magImages">
+          <a href="#/magazine/{{magId}}/{{i}}">{{i}}</a>
+        </li>
+      </ul>
+    </div>
+
+    <div class="col-md-9">
+      <div id="carousel" class="carousel slide" style="height: 100%">
+        <!-- Indicators -->
+        <ol class="carousel-indicators">
+          <li data-target="#carousel" ng-repeat="i in magImages" ng-class="{active:$index = (pageId?pageId:0) == i}"
+              data-slide-to="{{i}}"></li>
+        </ol>
+
+
+        <!-- Wrapper for slides -->
+        <div class="carousel-inner">
+          <div class="item" ng-repeat="i in magImages" ng-class="{active:$index = (pageId?pageId:0) == i}"
+              >
+            <img ng-src="resource/{{magId}}/{{i}}.png"/>
+          </div>
+        </div>
+
+        <!-- Controls -->
+        <div class="left carousel-control" href="#carousel" data-slide="prev">
+          <span class="icon-prev"></span>
+        </div>
+        <div class="right carousel-control" href="#carousel" data-slide="next">
+          <span class="icon-next"></span>
+        </div>
+      </div>
+    </div>
+
+  </row>
+
+</div>

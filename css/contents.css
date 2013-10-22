@@ -1,0 +1,29 @@
+h2, p {
+    font-family: Microsoft Yahei ! important;
+
+    white-space: normal;
+    word-wrap: break-word;
+    word-break: break-all;
+}
+
+h2 {
+    margin-top: 0px;
+    font-size: 20px;
+}
+
+.content-outer > div>a>div>p {
+    color: slategrey;
+
+}
+
+.content-outer {
+    color: slategrey;
+    background: #FFFCF5;
+    min-width: 100%;
+}
+
+.content-outer>div>a:hover {
+    color: dimgrey;
+    background: #006699;
+}
+

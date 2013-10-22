@@ -2,20 +2,28 @@
 
 /* App Module */
 
-
 var myApp = angular.module('neikanApp', [
-      'ngRoute',
-      'neikanControllers'])
-    .config(['$routeProvider', function ($routeProvider) {
-  $routeProvider.
-      when('/', {
-        templateUrl: 'gallery.html',
-        controller : 'GalleryCtrl'}).
-      when('/magazine/:magId', {
-        templateUrl: 'magazine.html',
-        controller : 'MagazineCtrl'
-      });
+      'ngRoute', 'neikanControllers'
+    ]).config([
+      '$routeProvider', function ($routeProvider) {
+        $routeProvider
+            .when('/', {
+              templateUrl: 'partials/gallery.html',
+              controller : 'GalleryCtrl'})
+            .when('/magazine/:magId/:pageId', {
+              templateUrl: 'partials/magazine.html',
+              controller : 'MagazineCtrl',
+              activetab  : 'pageId'})
+            .when('/magazine/:magId', {
+              templateUrl: 'partials/magazine.html',
+              controller : 'MagazineCtrl',
+              activetab  : '0'})
+            .when('/contents/:magId', {
+              templateUrl: 'partials/contents.html',
+              controller : 'ContentsCtrl'
+            });
 
-  // configure html5 to get links working on jsfiddle
-  // $locationProvider.html5Mode(true);
-}]);
+        // $locationProvider.html5Mode(true);
+      }
+    ]);
+

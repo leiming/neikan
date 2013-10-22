@@ -2,43 +2,72 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cae7603a-8d99-49c6-ad1d-a463ae411989" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/01/1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/02/1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/01/2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/02/2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/01/3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/02/3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/01/4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/02/4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/01/5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/02/5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/01/6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/02/6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/01/7.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/02/7.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/details.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/magazine.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/controller.js" afterPath="$PROJECT_DIR$/js/controller.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gallery.html" afterPath="$PROJECT_DIR$/gallery.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/contents-bg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/angular/angular-animate.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/angular/angular-resource.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/codeStyleSettings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/contents.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/partials/contents.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/01/details.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/02/details.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/init-bootstrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/jquery/jquery-1.10.2.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/jquery/jquery-1.10.2.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/jquery/jquery-1.10.2.min.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/partials/magazine.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testapp.js" />
+      <change type="DELETED" beforePath="E:\github\neikan\assets\css\docs.css" afterPath="" />
+      <change type="DELETED" beforePath="E:\github\neikan\assets\css\pygments-manni.css" afterPath="" />
+      <change type="DELETED" beforePath="E:\github\neikan\assets\ico\apple-touch-icon-144-precomposed.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\github\neikan\assets\ico\favicon.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\github\neikan\assets\js\application.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\github\neikan\assets\js\customizer.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\github\neikan\assets\js\filesaver.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\github\neikan\assets\js\holder.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\github\neikan\assets\js\jszip.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\github\neikan\assets\js\less.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\github\neikan\assets\js\raw-files.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\github\neikan\assets\js\uglify.js" afterPath="" />
+      <change type="DELETED" beforePath="E:\github\neikan\magazine.html" afterPath="" />
+      <change type="DELETED" beforePath="E:\github\neikan\resource\01\7.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\github\neikan\resource\02\7.png" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/angular/angular-route.js" afterPath="$PROJECT_DIR$/lib/angular/angular-route.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/angular/angular.js" afterPath="$PROJECT_DIR$/lib/angular/angular.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/neikan.css" afterPath="$PROJECT_DIR$/css/neikan.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/neikan.js" afterPath="$PROJECT_DIR$/js/neikan.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test.html" afterPath="$PROJECT_DIR$/test.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/script/web-server.js" afterPath="$PROJECT_DIR$/script/web-server.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MOVED" beforePath="E:\github\neikan\gallery.html" afterPath="$PROJECT_DIR$/partials/gallery.html" />
+      <change type="MOVED" beforePath="E:\github\neikan\js\controller.js" afterPath="$PROJECT_DIR$/js/controllers.js" />
     </list>
     <ignored path="neikan.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="cae7603a-8d99-49c6-ad1d-a463ae411989" time="1382074394582" ignored="false" />
-    <file path="/neikan.js" changelist="cae7603a-8d99-49c6-ad1d-a463ae411989" time="1382070072080" ignored="false" />
-    <file path="/index.html" changelist="cae7603a-8d99-49c6-ad1d-a463ae411989" time="1382086714037" ignored="false" />
-    <file path="/magazine.html" changelist="cae7603a-8d99-49c6-ad1d-a463ae411989" time="1382090846876" ignored="false" />
-    <file path="/gallery.html" changelist="cae7603a-8d99-49c6-ad1d-a463ae411989" time="1382075023957" ignored="false" />
-    <file path="/controller.js" changelist="cae7603a-8d99-49c6-ad1d-a463ae411989" time="1382088968761" ignored="false" />
+    <file path="/Dummy.txt" changelist="cae7603a-8d99-49c6-ad1d-a463ae411989" time="1382365754632" ignored="false" />
+    <file path="/neikan.js" changelist="cae7603a-8d99-49c6-ad1d-a463ae411989" time="1382305864200" ignored="false" />
+    <file path="/index.html" changelist="cae7603a-8d99-49c6-ad1d-a463ae411989" time="1382269908911" ignored="false" />
+    <file path="/magazine.html" changelist="cae7603a-8d99-49c6-ad1d-a463ae411989" time="1382307428410" ignored="false" />
+    <file path="/gallery.html" changelist="cae7603a-8d99-49c6-ad1d-a463ae411989" time="1382268980565" ignored="false" />
+    <file path="/controller.js" changelist="cae7603a-8d99-49c6-ad1d-a463ae411989" time="1382184105501" ignored="false" />
     <file path="$PROJECT_DIR$/../angular-phonecat/app/index.html" changelist="cae7603a-8d99-49c6-ad1d-a463ae411989" time="1382069085598" ignored="false" />
     <file path="$PROJECT_DIR$/../angular-phonecat/.gitignore" changelist="cae7603a-8d99-49c6-ad1d-a463ae411989" time="1382074394582" ignored="false" />
-    <file path="/test.html" changelist="cae7603a-8d99-49c6-ad1d-a463ae411989" time="1382081362853" ignored="false" />
+    <file path="/test.html" changelist="cae7603a-8d99-49c6-ad1d-a463ae411989" time="1382271635721" ignored="false" />
     <file path="$PROJECT_DIR$/../angular-phonecat/app/phones/phones.json" changelist="cae7603a-8d99-49c6-ad1d-a463ae411989" time="1382086350547" ignored="false" />
-    <file path="/details.json" changelist="cae7603a-8d99-49c6-ad1d-a463ae411989" time="1382086456497" ignored="false" />
-    <file path="/dummy.xml" changelist="cae7603a-8d99-49c6-ad1d-a463ae411989" time="1382090192795" ignored="false" />
+    <file path="/details.json" changelist="cae7603a-8d99-49c6-ad1d-a463ae411989" time="1382261456702" ignored="false" />
+    <file path="/dummy.xml" changelist="cae7603a-8d99-49c6-ad1d-a463ae411989" time="1382291192386" ignored="false" />
+    <file path="$PROJECT_DIR$/../angular-phonecat/app/js/controllers.js" changelist="cae7603a-8d99-49c6-ad1d-a463ae411989" time="1382092371168" ignored="false" />
+    <file path="/a.dummy" changelist="cae7603a-8d99-49c6-ad1d-a463ae411989" time="1382295310821" ignored="false" />
+    <file path="/neikan.css" changelist="cae7603a-8d99-49c6-ad1d-a463ae411989" time="1382291023215" ignored="false" />
+    <file path="/init-bootstrap.js" changelist="cae7603a-8d99-49c6-ad1d-a463ae411989" time="1382116833851" ignored="false" />
+    <file path="/a.js" changelist="cae7603a-8d99-49c6-ad1d-a463ae411989" time="1382182920110" ignored="false" />
+    <file path="/a.java" changelist="cae7603a-8d99-49c6-ad1d-a463ae411989" time="1382182809237" ignored="false" />
+    <file path="/contents.html" changelist="cae7603a-8d99-49c6-ad1d-a463ae411989" time="1382303640169" ignored="false" />
+    <file path="/controllers.js" changelist="cae7603a-8d99-49c6-ad1d-a463ae411989" time="1382304866412" ignored="false" />
+    <file path="/fragment.java" changelist="cae7603a-8d99-49c6-ad1d-a463ae411989" time="1382208464485" ignored="false" />
+    <file path="/testapp.js" changelist="cae7603a-8d99-49c6-ad1d-a463ae411989" time="1382271617962" ignored="false" />
+    <file path="/contents.css" changelist="cae7603a-8d99-49c6-ad1d-a463ae411989" time="1382297719969" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -102,7 +131,25 @@
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="22" column="7" selection-start="653" selection-end="653" vertical-scroll-proportion="-16.5">
+            <state line="11" column="0" selection-start="413" selection-end="413" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="contents.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/partials/contents.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="12" column="55" selection-start="441" selection-end="441" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="details.json" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resource/01/details.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="31" column="1" selection-start="1260" selection-end="1260" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -111,45 +158,46 @@
       <file leaf-file-name="neikan.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/neikan.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="21" column="0" selection-start="508" selection-end="508" vertical-scroll-proportion="0.0">
+            <state line="17" column="42" selection-start="587" selection-end="587" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="details.json" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/resource/details.json">
+      <file leaf-file-name="controllers.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/controllers.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="0" selection-start="227" selection-end="227" vertical-scroll-proportion="-12.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="controller.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/js/controller.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="0" selection-start="249" selection-end="249" vertical-scroll-proportion="0.0">
+            <state line="42" column="2" selection-start="1272" selection-end="1354" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="magazine.html" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/magazine.html">
+        <entry file="file://$PROJECT_DIR$/partials/magazine.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="27" selection-start="431" selection-end="437" vertical-scroll-proportion="0.50237715">
+            <state line="42" column="0" selection-start="1285" selection-end="1285" vertical-scroll-proportion="0.65970147">
               <folding>
                 <element signature="n#style#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#1;n#row#0;n#div#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="gallery.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/gallery.html">
+      <file leaf-file-name="contents.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/contents.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="12" selection-start="127" selection-end="127" vertical-scroll-proportion="-5.25">
+            <state line="19" column="1" selection-start="262" selection-end="282" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="gallery.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/partials/gallery.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="6" column="26" selection-start="104" selection-end="112" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -173,16 +221,22 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/script/web-server.js" />
-        <option value="$PROJECT_DIR$/web-server.js" />
-        <option value="$PROJECT_DIR$/test.html" />
-        <option value="$PROJECT_DIR$/js/neikan.js" />
-        <option value="$PROJECT_DIR$/resource/01/details.json" />
-        <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/resource/details.json" />
-        <option value="$PROJECT_DIR$/js/controller.js" />
         <option value="$PROJECT_DIR$/gallery.html" />
+        <option value="$PROJECT_DIR$/js/controller.js" />
+        <option value="$PROJECT_DIR$/js/init-bootstrap.js" />
         <option value="$PROJECT_DIR$/magazine.html" />
+        <option value="$PROJECT_DIR$/resource/02/details.json" />
+        <option value="$PROJECT_DIR$/partials/gallery.html" />
+        <option value="$PROJECT_DIR$/testapp.js" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/test.html" />
+        <option value="$PROJECT_DIR$/css/neikan.css" />
+        <option value="$PROJECT_DIR$/css/contents.css" />
+        <option value="$PROJECT_DIR$/resource/01/details.json" />
+        <option value="$PROJECT_DIR$/partials/contents.html" />
+        <option value="$PROJECT_DIR$/js/neikan.js" />
+        <option value="$PROJECT_DIR$/js/controllers.js" />
+        <option value="$PROJECT_DIR$/partials/magazine.html" />
       </list>
     </option>
   </component>
@@ -191,6 +245,38 @@
     <option name="y" value="-8" />
     <option name="width" value="1867" />
     <option name="height" value="1216" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Android Lint</id>
+          </State>
+          <State>
+            <id>CSS</id>
+          </State>
+          <State>
+            <id>Declaration redundancy</id>
+          </State>
+          <State>
+            <id>Django</id>
+          </State>
+          <State>
+            <id>GeneralJavaScript</id>
+          </State>
+          <State>
+            <id>JavaScript</id>
+          </State>
+          <State>
+            <id>Python</id>
+          </State>
+        </expanded-state>
+      </profile-state>
+    </entry>
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -218,7 +304,9 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="PackagesPane">
+        <subPane />
+      </pane>
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -247,7 +335,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="script" />
+              <option name="myItemId" value="resource" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -262,6 +350,10 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="resource" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="02" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -293,7 +385,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="lib" />
+              <option name="myItemId" value="partials" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -307,25 +399,45 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="neikan" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="neikan" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="images" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="PackagesPane">
-        <subPane />
-      </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="project.structure.last.edited" value="Global Libraries" />
     <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="project.structure.proportion" value="0.15" />
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="recentsLimit" value="5" />
     <property name="MemberChooser.sorted" value="false" />
-    <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
+    <property name="options.lastSelected" value="JavaScript.Libraries" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../angular-phonecat" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
+    <property name="GoToClass.includeJavaFiles" value="true" />
     <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -346,10 +458,15 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\github\neikan" />
-      <recent name="E:\github\neikan\script" />
+      <recent name="E:\github\neikan\lib\bootstrap" />
+      <recent name="E:\github\neikan\resource\02" />
+      <recent name="E:\github\neikan\lib\css" />
+      <recent name="E:\github\neikan\lib\angular" />
+      <recent name="E:\github\neikan\lib" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\github\neikan\assets\images" />
+      <recent name="E:\github\neikan\partials" />
       <recent name="E:\github\neikan\resource" />
     </key>
   </component>
@@ -391,6 +508,13 @@
       <option name="PASS_PARENT_ENVS" value="true" />
       <module name="" />
       <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugSession" factoryName="Local" singleton="true">
+      <JSDebuggerConfigurationSettings>
+        <option name="engineId" value="embedded" />
+        <option name="fileUrl" />
+      </JSDebuggerConfigurationSettings>
       <method />
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
@@ -454,21 +578,41 @@
     <option name="IGNORE_EXTERNALS" value="false" />
     <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
   </component>
+  <component name="TodoView" selected-index="0">
+    <todo-panel id="selected-file">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="default-changelist">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+  </component>
   <component name="ToolWindowManager">
     <frame x="61" y="-8" width="1867" height="1216" extended-state="6" />
     <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32923368" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="JSON Formatter" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24958949" sideWeight="0.6707663" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="JSON Formatter" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32923368" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2474001" sideWeight="0.80700094" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32923368" sideWeight="0.500821" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32923368" sideWeight="0.49917898" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.19299905" sideWeight="0.49917898" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32923368" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -539,124 +683,199 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/js/controller.js">
+    <entry file="file://$PROJECT_DIR$/partials/gallery.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="13" selection-start="28" selection-end="28" vertical-scroll-proportion="0.0">
+        <state line="6" column="26" selection-start="104" selection-end="112" vertical-scroll-proportion="0.0">
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/magazine.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="n#style#0;n#div#0;n#div#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gallery.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="7" selection-start="7" selection-end="7" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="7" selection-start="650" selection-end="650" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/neikan.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="8" selection-start="360" selection-end="360" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/magazine.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="8" selection-start="79" selection-end="79" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="n#style#0;n#div#0;n#div#0;n#!!top" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/css/bootstrap.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.5667167">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/bootstrap/bootstrap.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="50" column="51" selection-start="1829" selection-end="1829" vertical-scroll-proportion="0.49027237" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resource/02/details.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="1" selection-start="259" selection-end="259" vertical-scroll-proportion="-12.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/angular/angular.js">
+    <entry file="file://$PROJECT_DIR$/testapp.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1318" column="4" selection-start="37027" selection-end="37027" vertical-scroll-proportion="0.33231708">
+        <state line="12" column="42" selection-start="281" selection-end="281" vertical-scroll-proportion="0.2583732" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="30" selection-start="700" selection-end="700" vertical-scroll-proportion="-18.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/script/web-server.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="42" column="27" selection-start="982" selection-end="982" vertical-scroll-proportion="0.62647057">
-          <folding />
-        </state>
+    <entry file="file://$PROJECT_DIR$/resource/01/0.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resource/details.json">
+    <entry file="file://$PROJECT_DIR$/css/neikan.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="0" selection-start="227" selection-end="227" vertical-scroll-proportion="-12.0">
-          <folding />
-        </state>
+        <state line="6" column="19" selection-start="93" selection-end="93" vertical-scroll-proportion="0.13106796" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/js/neikan.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="0" selection-start="508" selection-end="508" vertical-scroll-proportion="0.0">
+        <state line="17" column="42" selection-start="587" selection-end="587" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resource/01/details.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="31" column="1" selection-start="1260" selection-end="1260" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="7" selection-start="653" selection-end="653" vertical-scroll-proportion="-16.5">
+        <state line="11" column="0" selection-start="413" selection-end="413" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test.html">
+    <entry file="file://$PROJECT_DIR$/partials/contents.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="35" column="10" selection-start="1107" selection-end="1107" vertical-scroll-proportion="0.96036583">
+        <state line="12" column="55" selection-start="441" selection-end="441" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/gallery.html">
+    <entry file="file://$PROJECT_DIR$/js/controllers.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="12" selection-start="127" selection-end="127" vertical-scroll-proportion="-5.25">
+        <state line="42" column="2" selection-start="1272" selection-end="1354" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/controller.js">
+    <entry file="file://$PROJECT_DIR$/partials/gallery.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="0" selection-start="249" selection-end="249" vertical-scroll-proportion="0.0">
+        <state line="6" column="26" selection-start="104" selection-end="112" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/magazine.html">
+    <entry file="file://$PROJECT_DIR$/css/contents.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="27" selection-start="431" selection-end="437" vertical-scroll-proportion="0.50237715">
+        <state line="19" column="1" selection-start="262" selection-end="282" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/partials/magazine.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="42" column="0" selection-start="1285" selection-end="1285" vertical-scroll-proportion="0.65970147">
           <folding>
             <element signature="n#style#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#row#0;n#div#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Node.js v0.10.18 Core Modules</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>neikan</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>
 
