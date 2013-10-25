@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html lang="zh-CN" ng-app="neikanApp">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>360er</title>
+
+  <link href="lib/css/bootstrap.css" rel="stylesheet">
+  <link href="css/gallery.css" rel="stylesheet">
+
+  <script src="lib/jquery/jquery-1.10.2.js"></script>
+  <script src="lib/bootstrap/bootstrap.js"></script>
+  <script src="lib/angular/angular.js"></script>
+  <script src="lib/angular/angular-animate.js"></script>
+  <script src="lib/angular/angular-resource.js"></script>
+  <script src="lib/angular/angular-route.js"></script>
+
+  <script src="js/neikan.js"></script>
+  <script src="js/controllers.js"></script>
+</head>
+
+<body>
+
+<div id="top" class="header">
+  <div class="vert-text">
+    <h1>360er</h1>
+
+    <h3>做永远的360人</h3>
+    <br>
+    <br>
+    <br>
+
+    <a href="#intro" data-toggle="tooltip" title="点击阅读">
+      <div class="glyphicon glyphicon-circle-arrow-down shadow-block"></div>
+
+    </a>
+
+  </div>
+</div>
+
+<div id="intro" class="intro">
+  <div class="container">
+
+    <div class="row">
+      <h1 class="text-center">从用户中来到用户中去（主要内容）</h1>
+    </div>
+    <hr>
+    <p class="lead">
+      从用户中来，放下架子，真正从用户角度去看产品，把一切花哨的玩意儿去掉，把复杂的技术做到后台，让用户看到的是简单，简洁，让用户用起来是顺手，顺心。这样做出来的东西，才会受到用户的欢迎，才会让产品到用户中去，从而汇聚起大规模的用户基础。</p>
+
+    <h3 class="pull-right">——周鸿祎</h3>
+
+  </div>
+</div>
+<!-- /Intro -->
+
+<!-- Services -->
+<div id="services" class="services">
+  <div class="container">
+    <div ng-view></div>
+  </div>
+</div>
+<!-- /Services -->
+
+<!-- Callout -->
+<div class="callout">
+  <div class="vert-text">
+    <h1>A Dramatic Text Area</h1>
+  </div>
+</div>
+<!-- /Callout -->
+
+<!-- Portfolio -->
+<div id="portfolio" class="portfolio">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-4 col-md-offset-4 text-center">
+        <h2>Our Work</h2>
+        <hr>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-md-4 col-md-offset-2 text-center">
+        <div class="portfolio-item">
+          <a href="#top"><img class="img-portfolio img-responsive" src="img/portfolio-1.jpg"></a>
+          <h4>Cityscape</h4>
+        </div>
+      </div>
+      <div class="col-md-4 text-center">
+        <div class="portfolio-item">
+          <a href="#top"><img class="img-portfolio img-responsive" src="img/portfolio-2.jpg"></a>
+          <h4>Is That On Fire?</h4>
+        </div>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-md-4 col-md-offset-2 text-center">
+        <div class="portfolio-item">
+          <a href="#top"><img class="img-portfolio img-responsive" src="img/portfolio-3.jpg"></a>
+          <h4>Stop Sign</h4>
+        </div>
+      </div>
+      <div class="col-md-4 text-center">
+        <div class="portfolio-item">
+          <a href="#top"><img class="img-portfolio img-responsive" src="img/portfolio-4.jpg"></a>
+          <h4>Narrow Focus</h4>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- /Portfolio -->
+
+<!-- Call to Action -->
+<div class="call-to-action">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-6 col-md-offset-3 text-center">
+        <h3>The buttons below are impossible to resist.</h3>
+        <a href="#top" class="btn btn-lg btn-default">Click Me!</a>
+        <a href="#top" class="btn btn-lg btn-primary">Look at Me!</a>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- /Call to Action -->
+
+<!-- Footer -->
+<footer>
+  <div class="container">
+    <div class="row text-center">
+      <hr>
+      <p>Copyright &copy; 36Oer 2013</p>
+    </div>
+  </div>
+  </div>
+</footer>
+<!-- /Footer -->
+
+<!-- Bootstrap core JavaScript -->
+<!-- Placed at the end of the document so the pages load faster -->
+<script src="lib/jquery/jquery-1.10.2.js"></script>
+<script src="lib/bootstrap/bootstrap.js"></script>
+
+<script>
+  $(function () {
+    $('a[href*=#]:not([href=#])').click(function () {
+      if (location.pathname.replace(/^\//, '') == this.pathname.replace(/^\//, '') || location.hostname == this.hostname) {
+
+        var target = $(this.hash);
+        target = target.length ? target : $('[name=' + this.hash.slice(1) + ']');
+        if (target.length) {
+          $('html,body').animate({
+            scrollTop: target.offset().top
+          }, 1000);
+          return false;
+        }
+      }
+    });
+  });
+</script>
+
+</body>
+
+</html>

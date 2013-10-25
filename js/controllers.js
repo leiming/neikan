@@ -8,12 +8,12 @@ neikanControllers.controller('ContentsCtrl', ['$scope', '$routeParams', "$http" 
 
 function GalleryCtrl($scope) {
   $scope.magazines = [
-    {id: "01", name: '第一期', link: "01", thumbnail: ""},
-    {id: "02", name: '第二期', link: "02", thumbnail: ""},
-    {id: "03", name: '第三期', link: "03", thumbnail: ""},
-    {id: "04", name: '第四期', link: "04", thumbnail: ""},
-    {id: "05", name: '第五期', link: "05", thumbnail: ""},
-    {id: "06", name: '第六期', link: "06", thumbnail: ""}
+    {id: "01", name: '第一期', link: "01", thumbnail: "", cover: "cover01"},
+    {id: "02", name: '第二期', link: "02", thumbnail: "", cover: "cover01"},
+    {id: "03", name: '第三期', link: "03", thumbnail: "", cover: "cover01"},
+    {id: "04", name: '第四期', link: "04", thumbnail: "", cover: "cover01"},
+    {id: "05", name: '第五期', link: "05", thumbnail: "", cover: "cover01"},
+    {id: "06", name: '第六期', link: "06", thumbnail: "", cover: "cover01"}
   ];
 
 }
@@ -26,7 +26,7 @@ function MagazineCtrl($scope, $routeParams, $http, $timeout) {
 
    });*/
 
-  console.log($routeParams);
+  // console.log($routeParams);
   $scope.magLength = 7;
   $scope.magImages = [];
 
@@ -61,4 +61,7 @@ function ContentsCtrl($scope, $routeParams, $http) {
     $scope.contentsLength = data.length;
   });
 
+  $http.get("/resource/" + $routeParams.magId + "/details_two.json").success(function (data) {
+    $scope.two = data;
+  });
 }
