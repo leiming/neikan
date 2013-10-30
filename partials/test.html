@@ -1,0 +1,34 @@
+{{test}}
+{{array01}}
+
+123
+<button ng-click="clickbtn()">btn</button>
+
+
+<div id="carousel" class="carousel slide">
+  <!-- Indicators -->
+  <ol class="carousel-indicators">
+    <li data-target="#carousel" data-slide-to="{{arr}}" ng-repeat="arr in array01" ng-class="{active:$first}"></li>
+
+  </ol>
+
+  <!-- Wrapper for slides -->
+  <div class="carousel-inner">
+<!--    <div class="item active" >
+      <img src="http://fpoimg.com/1000x285"/>
+    </div>-->
+<!--    <div class="item" ng-repeat="arr in array01" ng-class="{active:$index = (pageId?pageId:0) == arr}">-->
+      <div class="item" ng-repeat="arr in array01" ng-class="{active:$first}">
+      {{arr}}
+      <img src="http://fpoimg.com/1000x285"/>
+    </div>
+  </div>
+
+  <!-- Controls -->
+  <div class="left carousel-control" href="#carousel" data-slide="prev">
+    <span class="icon-prev"></span>
+  </div>
+  <div class="right carousel-control" href="#carousel" data-slide="next">
+    <span class="icon-next"></span>
+  </div>
+</div>

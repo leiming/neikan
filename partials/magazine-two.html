@@ -15,17 +15,24 @@
 
   <row>
     <div class="col-md-3">
-
-<!--      <button ng-click="changePage(5)">changePage</button>-->
+<!--      <button data-target="#carousel" ng-repeat="i in magImages" ng-class="{active:$index = (pageId?pageId:0) == i}"
+              data-slide-to="{{i}}">{{i}}
+      </button>
 
       <ul class="nav nav-pills nav-stacked">
-        <li ng-repeat="article in articles">
+        <li ng-repeat="i in magImages">{{i}}
+        </li>
+      </ul>-->
+
+      <ul class="nav nav-pills nav-stacked">
+        <li ng-repeat="i in magImages">
           <a href="" data-target="#carousel"
-             ng-class="{active:$index = (pageId?pageId:0) == article.image_page}"
-             data-slide-to="{{article.image_page}}">{{article.title}}--{{article.image_page}}</a>
+             ng-class="{active:$index = (pageId?pageId:0) == i}"
+             data-slide-to="{{i}}">{{i}}</a>
         </li>
       </ul>
     </div>
+
 
 
     <div class="col-md-9">

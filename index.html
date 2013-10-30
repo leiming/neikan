@@ -2,9 +2,10 @@
 <html lang="zh-CN" ng-app="neikanApp">
 <head>
   <meta charset="utf-8">
-  <title>奇虎360内刊</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link rel="stylesheet" href="lib/css/bootstrap.css" media="screen"/>
+  <title>360er</title>
+
+  <link href="lib/css/bootstrap.css" rel="stylesheet">
 
   <script src="lib/jquery/jquery-1.10.2.js"></script>
   <script src="lib/bootstrap/bootstrap.js"></script>
@@ -16,11 +17,11 @@
 
   <script src="js/neikan.js"></script>
   <script src="js/controllers.js"></script>
-  <script src="js/init-bootstrap.js"></script>
+  <script src="js/directives.js"></script>
 </head>
-<body>
 
-<div ng-view></div>
+<body>
+<div ng-view style="height: 100%"  ng-style="{'height': '100%'}"></div>
 
 </body>
 </html>

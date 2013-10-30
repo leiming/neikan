@@ -1,0 +1,8 @@
+.full-container{
+    background: 100%;
+    min-width: 100%;
+}
+
+body {
+    background: url(../assets/images/cover_bg.jpg) repeat center center fixed;
+}

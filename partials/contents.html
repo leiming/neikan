@@ -1,24 +1,255 @@
-<link rel="stylesheet" type="text/css" href="../css/contents.css"/>
+<link rel="stylesheet" type="text/css" href="../css/gallery.css"/>
 
-<div style="height: 100px">
-  <ol class="breadcrumb">
-    <li><a href="#">首页</a></li>
-    <li><a href="#/contents/{{magId}}">第{{magId}}期</a></li>
-  </ol>
-</div>
+<div id="top1" class="header">
+    <div class="vert-text">
 
-<div class="content-outer">
-  <div class="container">
-    <a class="row" ng-repeat="content in contentsList" href="#/magazine/{{magId}}/{{content.page}}">
-      <img class="clearfix pull-left list-img col-md-2"
-           src="http://placehold.it/150x100" alt="ALT NAME"
-           style='margin-right:10px'>
-      <div class="col-md-9">
-        <h2>{{content.title}}</h2>
-        <p>{{content.abstract}}</p></div>
-    </a>
+      <div class="container full-container">
+        <h1>360er</h1>
+        <h3>做永远的360人——09期电子版上线</h3>
+      </div>
 
   </div>
+
+  <div smooth-scroll-jquery speed="300" offset="0" class="glyphicon glyphicon-circle-arrow-down shadow-block"
+       data-toggle="tooltip" target="top2"></div>
+
+</div>
+
+</div>
+
+<!---------------------- top 2 ----------------------------->
+<div id="top2" class="header">
+  <div smooth-scroll-jquery speed="300" offset="0" class="glyphicon glyphicon-circle-arrow-up shadow-block"
+       data-toggle="tooltip" target="top1"></div>
+
+  <div class="container">
+
+    <div class="title">
+      <h1 class="title-block"> {{columns[0].column_name}}</h1>
+
+      <h3 class="subtitle-block"> {{columns[0].column_describe}}</h3>
+    </div>
+    <div class="row">
+
+
+      <a ng-repeat="content in columns[0].article" href="#/magazine/{{magId}}/{{content.image_page}}">
+        <div class="article col-md-7 col-md-offset-5">
+
+          <div class="col-md-1 index">
+            {{$index + 1}}
+          </div>
+
+          <div class="col-md-10">
+            <h4>{{content.title}}</h4>
+
+            <p>{{content.abstract}}</p>
+          </div>
+          <!-- <div class="col-md-1 page">
+                      {{content.page}}
+                    </div>-->
+
+        </div>
+
+      </a>
+    </div>
+
+
+  </div>
+  <div smooth-scroll-jquery speed="300" offset="0" class="glyphicon glyphicon-circle-arrow-down shadow-block"
+       data-toggle="tooltip" target="top3"></div>
+</div>
+
+<!---------------------- top 3 ----------------------------->
+<div id="top3" class="header">
+  <div smooth-scroll-jquery speed="300" offset="0" class="glyphicon glyphicon-circle-arrow-up shadow-block"
+       data-toggle="tooltip" target="top2"></div>
+
+  <div class="container">
+
+
+    <div class="row">
+
+
+      <a ng-repeat="content in columns[1].article" href="#/magazine/{{magId}}/{{content.image_page}}">
+        <div class="article col-md-7 col-md-offset-1">
+
+          <div class="col-md-1 index">
+            {{$index + 1}}
+          </div>
+
+          <div class="col-md-10">
+            <h4>{{content.title}}</h4>
+
+            <p>{{content.abstract}}</p>
+          </div>
+          <!-- <div class="col-md-1 page">
+                      {{content.page}}
+                    </div>-->
+        </div>
+      </a>
+    </div>
+
+    <div class="title">
+      <h1 class="title-block"> {{columns[1].column_name}}</h1>
+
+      <h3 class="subtitle-block"> {{columns[1].column_describe}}</h3>
+    </div>
+  </div>
+  <div smooth-scroll-jquery speed="300" offset="0" class="glyphicon glyphicon-circle-arrow-down shadow-block"
+       data-toggle="tooltip" target="top4"></div>
+</div>
+
+<!---------------------- top 4 ----------------------------->
+<div id="top4" class="header">
+
+  <div smooth-scroll-jquery speed="300" offset="0" class="glyphicon glyphicon-circle-arrow-up shadow-block"
+       data-toggle="tooltip" target="top3"></div>
+
+  <div class="container">
+
+    <div class="title">
+      <h1 class="title-block"> {{columns[2].column_name}}</h1>
+
+      <h3 class="subtitle-block"> {{columns[2].column_describe}}</h3>
+    </div>
+    <div class="row">
+
+
+      <a ng-repeat="content in columns[2].article" href="#/magazine/{{magId}}/{{content.image_page}}">
+        <div class="article col-md-5">
+          <div class="col-md-1 index">
+            {{$index + 1}}
+          </div>
+          <div class="col-md-11">
+            <h4>{{content.title}}</h4>
+
+            <p>{{content.abstract}}</p>
+          </div>
+        </div>
+
+      </a>
+    </div>
+
+
+  </div>
+  <div smooth-scroll-jquery speed="300" offset="0" class="glyphicon glyphicon-circle-arrow-down shadow-block"
+       data-toggle="tooltip" target="top5"></div>
+</div>
+
+<!---------------------- top 5 ----------------------------->
+<div id="top5" class="header">
+
+  <div smooth-scroll-jquery speed="300" offset="0" class="glyphicon glyphicon-circle-arrow-up shadow-block"
+       data-toggle="tooltip" target="top4"></div>
+
+  <div class="container">
+    <div class="row columns">
+      <div class="col-md-6 column1">
+        <div class="column">
+          <h2>{{columns[3].column_name}}</h2>
+
+          <p>{{columns[3].column_describe}}</p>
+        </div>
+        <a href="#/magazine/{{magId}}/{{columns[3].article[0].image_page}}">
+          <div class="article">
+            <h3>{{columns[3].article[0].title}}</h3>
+
+            <p>{{columns[3].article[0].abstract}}</p>
+          </div>
+        </a>
+      </div>
+
+      <div class="col-md-6 column2">
+        <div class="column">
+          <h2>{{columns[4].column_name}}</h2>
+
+          <p>{{columns[4].column_describe}}</p>
+        </div>
+        <a href="#/magazine/{{magId}}/{{columns[4].article[0].image_page}}">
+          <div class="article">
+            <h3>{{columns[4].article[0].title}}</h3>
+
+            <p>{{columns[4].article[0].abstract}}</p>
+          </div>
+        </a>
+      </div>
+
+      <div class="col-md-6 column3">
+        <div class="column">
+          <h2>{{columns[5].column_name}}</h2>
+
+          <p>{{columns[5].column_describe}}</p>
+        </div>
+        <a href="#/magazine/{{magId}}/{{columns[5].article[0].image_page}}">
+          <div class="article">
+            <h3>{{columns[5].article[0].title}}</h3>
+
+            <p>{{columns[5].article[0].abstract}}</p>
+          </div>
+        </a>
+      </div>
+
+
+      <div class="col-md-6 column4">
+
+        <div class="column">
+          <h2>{{columns[6].column_name}}</h2>
+
+          <p>{{columns[6].column_describe}}</p>
+        </div>
+        <a href="#/magazine/{{magId}}/{{columns[6].article[0].image_page}}">
+          <div class="article">
+            <h3>{{columns[6].article[0].title}}</h3>
+
+            <p>{{columns[6].article[0].abstract}}</p>
+          </div>
+        </a>
+      </div>
+
+    </div>
+  </div>
+
+
+  <div smooth-scroll-jquery speed="300" offset="0" class="glyphicon glyphicon-circle-arrow-down shadow-block"
+       data-toggle="tooltip" target="top6"></div>
+</div>
+
+<!---------------------- footer ----------------------------->
+<div id="top6" class="header">
+  <div class="vert-text">
+    <h1>360er</h1>
+
+    <h3>做永远的360人</h3>
+    <br>
+    <br>
+    <br>
+
+    <div class="glyphicon glyphicon-circle-arrow-down shadow-block" data-toggle="tooltip" title="点击阅读"
+         ng-click="scrollTo('services')"></div>
+    <a href="" smooth-scroll-jquery target="services" speed="2000" offset="0">Scroll to Target</a>
+  </div>
+</div>
+
+
+<!--<div class="container" ng-repeat="column in columns">
+  <div class="row">
+    <div class="col-md-3 column-title">
+
+      {{column.column_name}}
+    </div>
+
+  </div>
+  <a class="row" ng-repeat="content in column.article" href="#/magazine/{{magId}}/{{content.page}}">
+    &lt;!&ndash; <img class="clearfix pull-left list-img col-md-2"
+          src="http://placehold.it/150x100" alt="ALT NAME"
+          style='margin-right:10px'>&ndash;&gt;
+
+    <div class="col-md-9 article">
+      <h2>{{content.title}}</h2>
+
+      <p>{{content.abstract}}</p></div>
+  </a>
+</div>-->
 
 </div>
 
