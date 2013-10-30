@@ -358,8 +358,11 @@ i.service-icon:hover {
 
 /* Footer */
 
-footer {
-    padding: 100px 0;
+div .footer {
+    background: url(../assets/images/cover_bg.jpg) repeat center center fixed;
+    padding: 50px 0;
+    color: #ffffff;
+    text-shadow: 0.1em 0.1em 0.03em #333333;
 }
 
 .shadow-block {
@@ -371,8 +374,6 @@ footer {
     text-shadow: 0.03em 0.03em 0.03em #333333;
     color: #333333;
 }
-
-
 
 .title-block {
     font-size: 40pt;
