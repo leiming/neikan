@@ -4,11 +4,12 @@
     <list default="true" id="cae7603a-8d99-49c6-ad1d-a463ae411989" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/partials/contents.html" afterPath="$PROJECT_DIR$/partials/contents.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/gallery.css" afterPath="$PROJECT_DIR$/css/gallery.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="neikan.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="cae7603a-8d99-49c6-ad1d-a463ae411989" time="1383062804806" ignored="false" />
-    <file path="/neikan.js" changelist="cae7603a-8d99-49c6-ad1d-a463ae411989" time="1383063368798" ignored="false" />
+    <file path="/neikan.js" changelist="cae7603a-8d99-49c6-ad1d-a463ae411989" time="1383103033373" ignored="false" />
     <file path="/index.html" changelist="cae7603a-8d99-49c6-ad1d-a463ae411989" time="1383063717933" ignored="false" />
     <file path="/magazine.html" changelist="cae7603a-8d99-49c6-ad1d-a463ae411989" time="1383096908044" ignored="false" />
     <file path="/gallery.html" changelist="cae7603a-8d99-49c6-ad1d-a463ae411989" time="1382706594775" ignored="false" />
@@ -25,7 +26,7 @@
     <file path="/init-bootstrap.js" changelist="cae7603a-8d99-49c6-ad1d-a463ae411989" time="1382116833851" ignored="false" />
     <file path="/a.js" changelist="cae7603a-8d99-49c6-ad1d-a463ae411989" time="1382182920110" ignored="false" />
     <file path="/a.java" changelist="cae7603a-8d99-49c6-ad1d-a463ae411989" time="1382182809237" ignored="false" />
-    <file path="/contents.html" changelist="cae7603a-8d99-49c6-ad1d-a463ae411989" time="1383101783758" ignored="false" />
+    <file path="/contents.html" changelist="cae7603a-8d99-49c6-ad1d-a463ae411989" time="1383102466589" ignored="false" />
     <file path="/controllers.js" changelist="cae7603a-8d99-49c6-ad1d-a463ae411989" time="1383098479637" ignored="false" />
     <file path="/fragment.java" changelist="cae7603a-8d99-49c6-ad1d-a463ae411989" time="1382208464485" ignored="false" />
     <file path="/testapp.js" changelist="cae7603a-8d99-49c6-ad1d-a463ae411989" time="1382271617962" ignored="false" />
@@ -35,7 +36,7 @@
     <file path="/home.html" changelist="cae7603a-8d99-49c6-ad1d-a463ae411989" time="1382721151815" ignored="false" />
     <file path="/details_two.json" changelist="cae7603a-8d99-49c6-ad1d-a463ae411989" time="1383035518767" ignored="false" />
     <file path="/bootstrap.css" changelist="cae7603a-8d99-49c6-ad1d-a463ae411989" time="1382703770662" ignored="false" />
-    <file path="/gallery.css" changelist="cae7603a-8d99-49c6-ad1d-a463ae411989" time="1383101157936" ignored="false" />
+    <file path="/gallery.css" changelist="cae7603a-8d99-49c6-ad1d-a463ae411989" time="1383102765426" ignored="false" />
     <file path="/gallery_two.html" changelist="cae7603a-8d99-49c6-ad1d-a463ae411989" time="1382720407373" ignored="false" />
     <file path="/gallery-two.html" changelist="cae7603a-8d99-49c6-ad1d-a463ae411989" time="1383073025064" ignored="false" />
     <file path="/magazine.css" changelist="cae7603a-8d99-49c6-ad1d-a463ae411989" time="1383031816388" ignored="false" />
@@ -119,7 +120,7 @@
       <file leaf-file-name="gallery.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/gallery.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="274" column="0" selection-start="4694" selection-end="4864" vertical-scroll-proportion="-13.185185">
+            <state line="8" column="0" selection-start="107" selection-end="107" vertical-scroll-proportion="-5.3333335">
               <folding />
             </state>
           </provider>
@@ -143,19 +144,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="neikan.js" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="neikan.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/js/neikan.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="41" selection-start="365" selection-end="365" vertical-scroll-proportion="0.0">
+            <state line="27" column="14" selection-start="998" selection-end="998" vertical-scroll-proportion="0.5883777">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="contents.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="contents.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/partials/contents.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="221" column="81" selection-start="6253" selection-end="6253" vertical-scroll-proportion="0.64089775">
+            <state line="221" column="124" selection-start="6284" selection-end="6296" vertical-scroll-proportion="-8.666667">
               <folding />
             </state>
           </provider>
@@ -191,10 +192,10 @@
         <option value="$PROJECT_DIR$/resource/09/details.json" />
         <option value="$PROJECT_DIR$/partials/magazine.html" />
         <option value="$PROJECT_DIR$/js/neikan-two.js" />
-        <option value="$PROJECT_DIR$/js/neikan.js" />
         <option value="$PROJECT_DIR$/js/controllers.js" />
-        <option value="$PROJECT_DIR$/css/gallery.css" />
         <option value="$PROJECT_DIR$/partials/contents.html" />
+        <option value="$PROJECT_DIR$/css/gallery.css" />
+        <option value="$PROJECT_DIR$/js/neikan.js" />
       </list>
     </option>
   </component>
@@ -268,122 +269,6 @@
             <PATH_ELEMENT>
               <option name="myItemId" value="neikan" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="neikan" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="neikan" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="neikan" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="neikan" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="resource" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="neikan" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="neikan" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="resource" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="09" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="neikan" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="neikan" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="partials" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="neikan" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="neikan" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lib" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="neikan" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="neikan" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="neikan" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="neikan" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="css" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="neikan" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="neikan" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="images" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
@@ -569,7 +454,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="61" y="-8" width="1867" height="1216" extended-state="6" />
+    <frame x="61" y="-8" width="1867" height="1216" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -680,13 +565,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/neikan.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="41" selection-start="365" selection-end="365" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/assets/images/cover_bg.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -727,13 +605,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/gallery.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="274" column="0" selection-start="4694" selection-end="4864" vertical-scroll-proportion="-13.185185">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/js/controllers.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="44" column="22" selection-start="1452" selection-end="1452" vertical-scroll-proportion="0.0">
@@ -755,7 +626,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/partials/contents.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="221" column="81" selection-start="6253" selection-end="6253" vertical-scroll-proportion="0.64089775">
+        <state line="221" column="124" selection-start="6284" selection-end="6296" vertical-scroll-proportion="-8.666667">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/gallery.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="0" selection-start="107" selection-end="107" vertical-scroll-proportion="-5.3333335">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/neikan.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="14" selection-start="998" selection-end="998" vertical-scroll-proportion="0.5883777">
           <folding />
         </state>
       </provider>

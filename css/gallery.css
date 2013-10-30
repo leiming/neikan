@@ -304,6 +304,19 @@ h6,
     opacity: 1;
 }
 
+#footer-arrow {
+    position: relative;
+    margin-top: 0px;
+    margin-bottom: 30px;
+    font-size: 4em;
+    color: black;
+    opacity: 0.5;
+}
+
+#footer-arrow:hover {
+    opacity: 0.8;
+}
+
 /* Intro */
 
 .intro {
@@ -359,8 +372,9 @@ i.service-icon:hover {
 /* Footer */
 
 div .footer {
-    background: url(../assets/images/cover_bg.jpg) repeat center center fixed;
-    padding: 50px 0;
+/*    background: url(../assets/images/cover_bg.jpg) repeat center center fixed;*/
+    background-color: #cccccc;
+    padding: 0px 0px 50px 0px;
     color: #ffffff;
     text-shadow: 0.1em 0.1em 0.03em #333333;
 }
