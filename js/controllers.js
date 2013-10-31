@@ -12,7 +12,7 @@ neikanControllers.controller('ViewCtrl', ['$scope', '$routeParams', '$http' , Vi
 
 function ViewCtrl($scope, $routeParams, $http) {
   $scope.magImages = [];
-  for (var k = 0; k < 19; k++) {
+  for (var k = 0; k < 20; k++) {
     $scope.magImages.push(k);
   }
 
