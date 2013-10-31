@@ -5,9 +5,16 @@
 var myApp = angular.module('neikanApp', [
       'ngRoute', 'neikanControllers' , "angularSmoothscroll"
     ]).config([
-      '$routeProvider', function ($routeProvider, $locationProvider) {
-        $routeProvider
-            .when('/', {
+      '$routeProvider','$locationProvider', function ($routeProvider, $locationProvider) {
+       //  $locationProvider.html5Mode(true).hashPrefix('!');
+
+        $routeProvider.when('/', {
+              templateUrl: 'partials/view.html',
+              controller : 'ViewCtrl'})
+     /*       .when('/', {
+              templateUrl: 'partials/contents.html',
+              controller : 'ContentsCtrl'})*/
+            .when('/content', {
               templateUrl: 'partials/contents.html',
               controller : 'ContentsCtrl'})
             .when('/magazine/:magId/:pageId', {
@@ -40,7 +47,7 @@ var myApp = angular.module('neikanApp', [
               controller : 'ContentsCtrl'
             });*/
 
-        // $locationProvider.html5Mode(true);
+      //  $locationProvider.html5Mode(true);
       }
     ]);
 

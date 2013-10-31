@@ -6,6 +6,51 @@ neikanControllers.controller('GalleryCtrl', ['$scope', '$http', '$anchorScroll',
 neikanControllers.controller('MagazineCtrl', ['$scope', '$routeParams', '$http' , '$timeout', MagazineCtrl]);
 neikanControllers.controller('ContentsCtrl', ['$scope', '$routeParams', '$http' , ContentsCtrl]);
 neikanControllers.controller('TestCtrl', ['$scope', '$routeParams', '$http' , TestCtrl]);
+neikanControllers.controller('ViewCtrl', ['$scope', '$routeParams', '$http' , ViewCtrl]);
+
+/*******ViewCtrl********/
+
+function ViewCtrl($scope, $routeParams, $http) {
+
+  //初始值
+  $scope.magId = $routeParams.magId || "09";
+  console.log($scope.magId);
+  // 获得不带专栏的文章标题列表，存储于$scope.articles中
+
+  $http.get("/resource/" + $scope.magId + "/details.json").success(function (data) {
+    $scope.columns = data;
+
+    // 获得不带专栏的文章标题列表，存储于$scope.articles中
+    var articles = [];
+    for (var i in $scope.columns) {
+      var column = $scope.columns[i];
+      // console.log(column);
+      for (var j in column.article) {
+        articles.push(column.article[j]);
+      }
+    }
+    $scope.articles = articles;
+
+    // console.log($scope.articles);
+    // console.log("length" + $scope.articles.length);
+
+    // 图片数目应该单独存放，不应该通过计算得出，本期为21
+
+    $scope.magImages = [];
+    for (var k = 0; k < 19; k++) {
+      $scope.magImages.push(k);
+    }
+  });
+
+  $('#carousel').on('slide.bs.carousel', function () {
+    $('#carousel').carousel("pause");
+  })
+
+  $('#carousel').on('slid.bs.carousel', function () {
+    $('#carousel').carousel("pause");
+  })
+
+}
 
 /*******GalleryCtrl********/
 
@@ -33,7 +78,7 @@ function MagazineCtrl($scope, $routeParams, $http, $timeout) {
   $http.get("/resource/magazines.json").success(function (data) {
     $scope.magazines = data;
     // console.log($scope.magazines);
-   // alert(data);
+    // alert(data);
     $scope.mag = $scope.magazines[magId];
     console.log("mag:" + $scope.mag);
   });
@@ -90,23 +135,23 @@ function MagazineCtrl($scope, $routeParams, $http, $timeout) {
 
 // 构造默认值为15的数字数组
 /*function createArray(len) {
-  console.log(len);
-  var length = len || 15;
-  console.log(length);
-  var arr = [];
-  for (var i = 0; i < length; i++) {
-    arr.push(i);
-  }
-  return arr;
-}*/
+ console.log(len);
+ var length = len || 15;
+ console.log(length);
+ var arr = [];
+ for (var i = 0; i < length; i++) {
+ arr.push(i);
+ }
+ return arr;
+ }*/
 
 /*******ContentsCtrl********/
 
 function ContentsCtrl($scope, $routeParams, $http) {
   $scope.magId = $routeParams.magId || "09";
-  console.log("magid:" + $scope.magId);
+  // console.log("magid:" + $scope.magId);
   $http.get("/resource/magazines.json").success(function (data) {
-    // $scope.contentsList = data;
+    // $scope.contentsList = data;;
     // $scope.contentsLength = data.length;
   });
 
