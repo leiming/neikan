@@ -3,21 +3,20 @@
 <div class="container max-width-container max-height no-overflow">
   <div class="row max-height">
 
-
-    <div class="col-md-2 scrollable">
-
-      <div ng-repeat="index in magImages">
-        drr
+    <div class="col-md-2 scrollable sidebar">
+      <div class="input-group">
+        <input type="text" class="form-control" ng-model="search" placeholder="搜一下">
       </div>
-      <div ng-repeat="index in magImages">
-        drr
-      </div>
-
-      <div ng-repeat="index in magImages">
-        drr
-      </div>
-
+      <ul class="nav nav-pills nav-stacked" ng-repeat="column in columns | filter:search">
+        <h3>{{column.column_name}}</h3>
+        <li ng-repeat="article in column.article | filter:search">
+          <a href="" data-target="#carousel"
+             ng-class="{active:$index = (pageId?pageId:0) == article.image_page}"
+             data-slide-to="{{article.image_page}}">{{article.title}}<small>第{{article.page}}页</small></a>
+        </li>
+      </ul>
     </div>
+
 
     <div class="col-lg-9">
 

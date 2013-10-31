@@ -11,9 +11,22 @@ neikanControllers.controller('ViewCtrl', ['$scope', '$routeParams', '$http' , Vi
 /*******ViewCtrl********/
 
 function ViewCtrl($scope, $routeParams, $http) {
+  $scope.magImages = [];
+  for (var k = 0; k < 19; k++) {
+    $scope.magImages.push(k);
+  }
 
   //初始值
   $scope.magId = $routeParams.magId || "09";
+  $scope.pageId = checkPageId($routeParams.pageId) || "0";
+
+  function checkPageId(pageId){
+    if( isNaN(pageId) ){
+      return false;
+    }
+    return (pageId <= 19 && pageId >= 0)?pageId:false;
+  }
+
   console.log($scope.magId);
   // 获得不带专栏的文章标题列表，存储于$scope.articles中
 
@@ -36,10 +49,7 @@ function ViewCtrl($scope, $routeParams, $http) {
 
     // 图片数目应该单独存放，不应该通过计算得出，本期为21
 
-    $scope.magImages = [];
-    for (var k = 0; k < 19; k++) {
-      $scope.magImages.push(k);
-    }
+
   });
 
   $('#carousel').on('slide.bs.carousel', function () {
