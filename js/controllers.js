@@ -5,6 +5,7 @@ var neikanControllers = angular.module('neikanControllers', []);
 neikanControllers.controller('GalleryCtrl', ['$scope', '$http', '$anchorScroll', '$location', GalleryCtrl]);
 neikanControllers.controller('MagazineCtrl', ['$scope', '$routeParams', '$http' , '$timeout', MagazineCtrl]);
 neikanControllers.controller('ContentsCtrl', ['$scope', '$routeParams', '$http' , ContentsCtrl]);
+neikanControllers.controller('TestCtrl', ['$scope', '$routeParams', '$http' , TestCtrl]);
 neikanControllers.controller('ViewCtrl', ['$scope', '$routeParams', '$http' , ViewCtrl]);
 
 /*******ViewCtrl********/
@@ -19,11 +20,11 @@ function ViewCtrl($scope, $routeParams, $http) {
   $scope.magId = $routeParams.magId || "09";
   $scope.pageId = checkPageId($routeParams.pageId) || "0";
 
-  function checkPageId(pageId) {
-    if (isNaN(pageId)) {
+  function checkPageId(pageId){
+    if( isNaN(pageId) ){
       return false;
     }
-    return (pageId <= 21 && pageId >= 0) ? pageId : false;
+    return (pageId <= 21 && pageId >= 0)?pageId:false;
   }
 
   console.log($scope.magId);
@@ -47,6 +48,7 @@ function ViewCtrl($scope, $routeParams, $http) {
     // console.log("length" + $scope.articles.length);
 
     // 图片数目应该单独存放，不应该通过计算得出，本期为21
+
 
   });
 
@@ -166,5 +168,18 @@ function ContentsCtrl($scope, $routeParams, $http) {
   $http.get("/resource/" + $scope.magId + "/details.json").success(function (data) {
     $scope.columns = data;
   });
+
+}
+
+/*******TestCtrl********/
+
+function TestCtrl($scope, $routeParams, $http) {
+  $scope.test = "hello";
+  $scope.array01 = [1, 2, 3];
+  $scope.array02 = [1, 2, 3, 4, 5];
+  $scope.clickbtn = function () {
+    console.log("btn");
+    $scope.array01 = $scope.array02;
+  }
 
 }

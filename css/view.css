@@ -38,7 +38,7 @@ body, html {
 
 .col-centered {
     padding-top: 5%;
-    padding-left: 12%;
+    padding-left: 8%;
     min-height: 100%;
 }
 
@@ -57,10 +57,20 @@ body, html {
 
 .carousel-control.left,
 .carousel-control.right{
+ /*    IE 8 */
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=20)";
+ /*    IE 5-7*/
+    filter: alpha(opacity=20);
     opacity: 0.2;
 }
+
+
 
 .carousel-control.left:hover,
 .carousel-control.right:hover {
     opacity: 0.5;
+}
+
+.carousel-control .icon-prev, .carousel-control .icon-next {
+    font-size: 80px;
 }
