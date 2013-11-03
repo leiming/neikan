@@ -1,36 +1,29 @@
 <link rel="stylesheet" type="text/css" href="../css/view.css"/>
-
 <div class="container max-width-container max-height no-overflow">
   <div class="row max-height">
-
     <div class="col-md-2 scrollable sidebar">
       <div class="input-group">
         <input type="text" class="form-control" ng-model="search" placeholder="搜一下">
       </div>
       <ul class="nav nav-pills nav-stacked" ng-repeat="column in columns | filter:search">
-        <h3>{{column.column_name}}</h3>
+        <h3 ng-hide="{{column.column_hide}}">{{column.column_name}}</h3>
         <li ng-repeat="article in column.article | filter:search">
           <a href="" data-target="#carousel"
              ng-class="{active:$index = (pageId?pageId:0) == article.image_page}"
-             data-slide-to="{{article.image_page}}">{{article.title}}<small>第{{article.page}}页</small></a>
+             data-slide-to="{{article.image_page}}">{{article.title}}
+               <small ng-show="{{article.page}}">第{{article.page}}页</small>
+          </a>
         </li>
       </ul>
     </div>
-
-
-    <div class="col-lg-9">
-
+    <div class="col-lg-9 scrollable">
       <div class="col-centered">
-
         <div id="carousel" class="carousel slide" style="height: 100%">
-          <!-- Indicators -->
           <ol class="carousel-indicators">
             <li data-target="#carousel" ng-repeat="i in magImages" ng-class="{active:$index = (pageId?pageId:0) == i}"
                 data-slide-to="{{i}}"></li>
           </ol>
 
-
-          <!-- Wrapper for slides -->
           <div class="carousel-inner">
             <div class="item" ng-repeat="i in magImages" ng-class="{active:$index = (pageId?pageId:0) == i}"
                 >
@@ -48,21 +41,6 @@
         </div>
       </div>
     </div>
-
   </div>
 
-  <!--    <div class="span8 scrollable">
-        <div class="pad40-top">
-          left
-        </div>
-      </div>
-
-      <div class="span4 scrollable">
-        <div class="pad40-top">
-          carousel
-          {{magId}}
-        </div>
-      </div>
-
-    </div>-->
 </div>

@@ -27,28 +27,19 @@ body, html {
     width: 100%;
 }
 
-/*
-.sidebar ul {
-    padding-top: 0px;
-}
-*/
-
 .max-height {
     height: 100%;
+    min-height: 100%;
 }
 
 .no-overflow {
     overflow: hidden;
 }
 
-.pad40-top {
-    /*   padding-top: 40px;*/
-
-}
-
 .col-centered {
     padding-top: 5%;
-    padding-left: 5%;
+    padding-left: 12%;
+    min-height: 100%;
 }
 
 .nav h3 {
@@ -62,4 +53,14 @@ body, html {
     position: relative;
     right: -10px;
     color: #cccccc;
+}
+
+.carousel-control.left,
+.carousel-control.right{
+    opacity: 0.2;
+}
+
+.carousel-control.left:hover,
+.carousel-control.right:hover {
+    opacity: 0.5;
 }

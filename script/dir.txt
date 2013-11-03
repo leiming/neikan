@@ -1,0 +1,9 @@
+..\lib\jquery\jquery-1.10.2.min.js
+..\lib\jquery\jquery-1.10.2.min.map
+..\lib\bootstrap\bootstrap.min.js
+..\lib\angular\angular.min.js
+..\lib\angular\angular-animate.min.js
+..\lib\angular\angular-route.min.js
+..\js\neikan.js
+..\js\controllers.js
+..\js\directives.js
