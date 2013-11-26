@@ -7,8 +7,9 @@ neikanControllers.controller('MagazineCtrl', ['$scope', '$routeParams', '$http' 
 neikanControllers.controller('ContentsCtrl', ['$scope', '$routeParams', '$http' , ContentsCtrl]);
 neikanControllers.controller('TestCtrl', ['$scope', '$routeParams', '$http' , TestCtrl]);
 neikanControllers.controller('ViewCtrl', ['$scope', '$routeParams', '$http' , ViewCtrl]);
+neikanControllers.controller('ViewPageCtrl', ['$scope', '$routeParams', '$http' , ViewPageCtrl]);
 
-/*******ViewCtrl********/
+/**ViewCtrl********/
 
 function ViewCtrl($scope, $routeParams, $http) {
   $scope.magImages = [];
@@ -20,11 +21,11 @@ function ViewCtrl($scope, $routeParams, $http) {
   $scope.magId = $routeParams.magId || "09";
   $scope.pageId = checkPageId($routeParams.pageId) || "0";
 
-  function checkPageId(pageId){
-    if( isNaN(pageId) ){
+  function checkPageId(pageId) {
+    if (isNaN(pageId)) {
       return false;
     }
-    return (pageId <= 21 && pageId >= 0)?pageId:false;
+    return (pageId <= 21 && pageId >= 0) ? pageId : false;
   }
 
   console.log($scope.magId);
@@ -49,7 +50,6 @@ function ViewCtrl($scope, $routeParams, $http) {
 
     // 图片数目应该单独存放，不应该通过计算得出，本期为21
 
-
   });
 
   $('#carousel').on('slide.bs.carousel', function () {
@@ -62,7 +62,53 @@ function ViewCtrl($scope, $routeParams, $http) {
 
 }
 
-/*******GalleryCtrl********/
+function ViewPageCtrl($scope, $routeParams, $http) {
+
+  $scope.magId = 10;
+  $scope.magImages = [];
+  for (var k = 0; k < 5; k++) {
+    $scope.magImages.push(k);
+  }
+
+  $http.get("/resource/" + $scope.magId + "/details.json").success(function (data) {
+    $scope.columns = data;
+
+    // 获得不带专栏的文章标题列表，存储于$scope.articles中
+    var articles = [];
+    for (var i in $scope.columns) {
+      var column = $scope.columns[i];
+      // console.log(column);
+      for (var j in column.article) {
+        articles.push(column.article[j]);
+      }
+    }
+    $scope.articles = articles;
+
+    // console.log($scope.articles);
+    // console.log("length" + $scope.articles.length);
+
+    // 图片数目应该单独存放，不应该通过计算得出，本期为21
+
+  });
+
+
+
+  function initBook() {
+    // console.log('initBook');
+    $('#book').turn({
+      display: 'double'});
+  }
+
+  Modernizr.load({
+    test    : Modernizr.csstransforms,
+    yep     : ['/lib/turnjs/turn.min.js'],
+    nope    : ['/lib/turnjs/turn.html4.min.js'],
+    complete: initBook
+  });
+
+}
+
+/**GalleryCtrl********/
 
 function GalleryCtrl($scope, $http, $anchorScroll, $locationProvider) {
   $http.get("/resource/magazines.json").success(function (data) {

@@ -17,27 +17,34 @@
           <a href="" data-target="#carousel"
              ng-class="{active:$index = (pageId?pageId:0) == article.image_page}"
              data-slide-to="{{article.image_page}}">{{article.title}}
-               <small ng-show="{{article.page}}">第{{article.page}}页</small>
+            <small ng-show="{{article.page}}">第{{article.page}}页</small>
           </a>
         </li>
       </ul>
     </div>
     <div class="col-lg-9 scrollable">
+      </div>
       <div class="col-centered">
-        <div id="carousel" class="carousel slide" style="height: 100%">
-          <ol class="carousel-indicators">
-            <li data-target="#carousel" ng-repeat="i in magImages" ng-class="{active:$index = (pageId?pageId:0) == i}"
-                data-slide-to="{{i}}"></li>
-          </ol>
+        <div id="book">
+          <div ng-repeat="i in magImages">
+            <img ng-src="resource/{{magId}}/{{i}}.png"/>
+        </div>
+      </div>
+      <!--  <div class="col-centered">
+          <div id="carousel" class="carousel slide" style="height: 100%">
+            <ol class="carousel-indicators">
+              <li data-target="#carousel" ng-repeat="i in magImages" ng-class="{active:$index = (pageId?pageId:0) == i}"
+                  data-slide-to="{{i}}"></li>
+            </ol>
 
-          <div class="carousel-inner">
-            <div class="item" ng-repeat="i in magImages" ng-class="{active:$index = (pageId?pageId:0) == i}"
-                >
-              <img ng-src="resource/{{magId}}/{{i}}.png"/>
+            <div class="carousel-inner">
+              <div class="item" ng-repeat="i in magImages" ng-class="{active:$index = (pageId?pageId:0) == i}"
+                  >
+                <img ng-src="resource/{{magId}}/{{i}}.png"/>
+              </div>
             </div>
-          </div>
 
-          <!-- Controls -->
+            &lt;!&ndash; Controls &ndash;&gt;
           <div class="left carousel-control" href="#carousel" data-slide="prev">
             <span class="icon-prev"></span>
           </div>
@@ -45,8 +52,9 @@
             <span class="icon-next"></span>
           </div>
         </div>
-      </div>
+      </div>-->
     </div>
   </div>
 
 </div>
+

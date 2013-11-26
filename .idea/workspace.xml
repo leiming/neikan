@@ -2,30 +2,266 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cae7603a-8d99-49c6-ad1d-a463ae411989" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/10/0.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/turntest/samples/magazine/pages/1-large.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/turntest/samples/Brandsource/pages/1-thumb.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/turntest/samples/Furniture First/pages/1-thumb.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/turntest/samples/Mattress Book/pages/1-thumb.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/turntest/samples/Nationwide/pages/1-thumb.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/turntest/samples/magazine/pages/1-thumb.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/turntest/samples/magazine/pages/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/10/1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/turntest/samples/magazine/pages/10-large.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/turntest/samples/Brandsource/pages/10-thumb.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/turntest/samples/Furniture First/pages/10-thumb.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/turntest/samples/Mattress Book/pages/10-thumb.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/turntest/samples/Nationwide/pages/10-thumb.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/turntest/samples/magazine/pages/10-thumb.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/turntest/samples/magazine/pages/10.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/10/10.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/turntest/samples/magazine/pages/11-large.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/turntest/samples/Brandsource/pages/11-thumb.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/turntest/samples/Furniture First/pages/11-thumb.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/turntest/samples/Mattress Book/pages/11-thumb.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/turntest/samples/Nationwide/pages/11-thumb.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/turntest/samples/magazine/pages/11-thumb.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/turntest/samples/magazine/pages/11.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/10/11.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/turntest/samples/magazine/pages/12-large.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/turntest/samples/Brandsource/pages/12-thumb.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/turntest/samples/Furniture First/pages/12-thumb.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/turntest/samples/Mattress Book/pages/12-thumb.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/turntest/samples/Nationwide/pages/12-thumb.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/turntest/samples/magazine/pages/12-thumb.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/turntest/samples/magazine/pages/12.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/10/12.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/10/13.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/10/14.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/10/15.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/10/16.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/turntest/samples/magazine/pages/2-large.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/turntest/samples/Brandsource/pages/2-thumb.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/turntest/samples/Furniture First/pages/2-thumb.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/turntest/samples/Mattress Book/pages/2-thumb.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/turntest/samples/Nationwide/pages/2-thumb.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/turntest/samples/magazine/pages/2-thumb.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/turntest/samples/magazine/pages/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/10/2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/turntest/samples/magazine/pages/3-large.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/turntest/samples/Brandsource/pages/3-thumb.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/turntest/samples/Furniture First/pages/3-thumb.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/turntest/samples/Mattress Book/pages/3-thumb.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/turntest/samples/Nationwide/pages/3-thumb.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/turntest/samples/magazine/pages/3-thumb.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/turntest/samples/magazine/pages/3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/10/3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/turntest/samples/magazine/pages/4-large.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/turntest/samples/Brandsource/pages/4-thumb.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/turntest/samples/Furniture First/pages/4-thumb.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/turntest/samples/Mattress Book/pages/4-thumb.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/turntest/samples/Nationwide/pages/4-thumb.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/turntest/samples/magazine/pages/4-thumb.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/turntest/samples/magazine/pages/4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/10/4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/turntest/samples/magazine/pages/5-large.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/turntest/samples/Brandsource/pages/5-thumb.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/turntest/samples/Furniture First/pages/5-thumb.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/turntest/samples/Mattress Book/pages/5-thumb.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/turntest/samples/Nationwide/pages/5-thumb.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/turntest/samples/magazine/pages/5-thumb.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/turntest/samples/magazine/pages/5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/10/5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/turntest/samples/magazine/pages/6-large.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/turntest/samples/Brandsource/pages/6-thumb.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/turntest/samples/Furniture First/pages/6-thumb.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/turntest/samples/Mattress Book/pages/6-thumb.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/turntest/samples/Nationwide/pages/6-thumb.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/turntest/samples/magazine/pages/6-thumb.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/turntest/samples/magazine/pages/6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/10/6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/turntest/samples/magazine/pages/7-large.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/turntest/samples/Brandsource/pages/7-thumb.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/turntest/samples/Furniture First/pages/7-thumb.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/turntest/samples/Mattress Book/pages/7-thumb.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/turntest/samples/Nationwide/pages/7-thumb.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/turntest/samples/magazine/pages/7-thumb.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/turntest/samples/magazine/pages/7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/10/7.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/turntest/samples/magazine/pages/8-large.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/turntest/samples/Brandsource/pages/8-thumb.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/turntest/samples/Furniture First/pages/8-thumb.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/turntest/samples/Mattress Book/pages/8-thumb.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/turntest/samples/Nationwide/pages/8-thumb.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/turntest/samples/magazine/pages/8-thumb.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/turntest/samples/magazine/pages/8.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/10/8.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/turntest/samples/magazine/pages/9-large.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/turntest/samples/Brandsource/pages/9-thumb.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/turntest/samples/Furniture First/pages/9-thumb.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/turntest/samples/Mattress Book/pages/9-thumb.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/turntest/samples/Nationwide/pages/9-thumb.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/turntest/samples/magazine/pages/9-thumb.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/turntest/samples/magazine/pages/9.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/10/9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/abc.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/turntest/samples/magazine/pics/arrows.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/turntest/samples/magazine/pics/loader.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/turntest/samples/magazine/pages/preview.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/turntest/samples/magazine/pics/zoom-icons-editable.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/turntest/samples/magazine/pics/zoom-icons.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/turntest/samples/magazine/pics/zoom.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/turntest/samples/magazine/pages/1-regions.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/turntest/samples/magazine/pages/10-regions.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/turntest/samples/magazine/pages/11-regions.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/turntest/samples/magazine/pages/12-regions.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/turntest/samples/magazine/pages/2-regions.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/turntest/samples/magazine/pages/3-regions.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/turntest/samples/magazine/pages/4-regions.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/turntest/samples/magazine/pages/5-regions.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/turntest/samples/magazine/pages/6-regions.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/turntest/samples/magazine/pages/7-regions.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/turntest/samples/magazine/pages/8-regions.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/turntest/samples/magazine/pages/9-regions.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/angular/angular-animate.min.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/angular/angular-cookies.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/angular/angular-cookies.min.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/angular/angular-cookies.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/angular/angular-csp.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/angular/angular-loader.min.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/angular/angular-loader.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/angular/angular-mocks.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/angular/angular-resource.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/angular/angular-resource.min.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/angular/angular-resource.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/angular/angular-route.min.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/angular/angular-sanitize.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/angular/angular-sanitize.min.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/angular/angular-sanitize.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/angular/angular-scenario.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/angular/angular-touch.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/angular/angular-touch.min.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/angular/angular-touch.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/angular/angular.min.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/turntest/lib/compress.sh" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resource/10/details.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/turntest/lib/hash.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/turntest/extras/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/turntest/lib/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/turntest/samples/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/turntest/samples/Brandsource/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/turntest/samples/Furniture First/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/turntest/samples/Mattress Book/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/turntest/samples/Nationwide/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/turntest/samples/basic/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/turntest/samples/docs/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/turntest/samples/magazine/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/turntest/samples/magazine/pages/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/turntest/samples/steve-jobs/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/turntest/samples/magazine/index2.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/turntest/extras/jGestures-license.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/turntest/extras/jgestures.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/turntest/extras/jquery-ui-1.8.20.custom.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/turntest/extras/jquery.min.1.7.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/turntest/extras/jquery.mousewheel.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/turntest/samples/magazine/css/jquery.ui.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/turntest/samples/magazine/css/jquery.ui.html4.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/turntest/samples/magazine/css/magazine.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/turntest/samples/magazine/js/magazine.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/turntest/extras/modernizr.2.5.3.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/iecompatible/modernizr/modernizr.custom.81870.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/turntest/extras/modernizr.custom.81870.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/turntest/lib/scissor.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/turntest/lib/scissor.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/turntest/samples/Brandsource/slider.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/turntest/samples/Furniture First/slider.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/turntest/samples/Nationwide/slider.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/turntest/samples/magazine/test.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/turnjs/turn.html4.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/turntest/lib/turn.html4.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/turnjs/turn.html4.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/turntest/lib/turn.html4.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/turntest/lib/turn.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/turntest/lib/turn.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/turntest/turntest.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/upload.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/turnjs/zoom.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/turntest/lib/zoom.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/turnjs/zoom.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/turntest/lib/zoom.min.js" />
+      <change type="DELETED" beforePath="E:\github\neikan\a.txt" afterPath="" />
+      <change type="DELETED" beforePath="E:\github\neikan\partials\contents-two.html" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/angular/angular-animate.js" afterPath="$PROJECT_DIR$/lib/angular/angular-animate.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/angular/angular-animate.min.js" afterPath="$PROJECT_DIR$/lib/angular/angular-animate.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/angular/angular-loader.js" afterPath="$PROJECT_DIR$/lib/angular/angular-loader.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/angular/angular-route.js" afterPath="$PROJECT_DIR$/lib/angular/angular-route.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/angular/angular-route.min.js" afterPath="$PROJECT_DIR$/lib/angular/angular-route.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/angular/angular.js" afterPath="$PROJECT_DIR$/lib/angular/angular.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/angular/angular.min.js" afterPath="$PROJECT_DIR$/lib/angular/angular.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-jshint/node_modules/jshint/node_modules/cli/node_modules/glob/test/bash-comparison.js" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-jshint/node_modules/jshint/node_modules/cli/node_modules/glob/test/bash-comparison.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt/node_modules/glob/test/bash-comparison.js" afterPath="$PROJECT_DIR$/node_modules/grunt/node_modules/glob/test/bash-comparison.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-jshint/node_modules/jshint/node_modules/minimatch/node_modules/lru-cache/test/basic.js" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-jshint/node_modules/jshint/node_modules/minimatch/node_modules/lru-cache/test/basic.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-jshint/node_modules/jshint/node_modules/minimatch/test/basic.js" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-jshint/node_modules/jshint/node_modules/minimatch/test/basic.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt/node_modules/minimatch/node_modules/lru-cache/test/basic.js" afterPath="$PROJECT_DIR$/node_modules/grunt/node_modules/minimatch/node_modules/lru-cache/test/basic.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt/node_modules/minimatch/test/basic.js" afterPath="$PROJECT_DIR$/node_modules/grunt/node_modules/minimatch/test/basic.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-jshint/node_modules/jshint/node_modules/minimatch/test/brace-expand.js" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-jshint/node_modules/jshint/node_modules/minimatch/test/brace-expand.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt/node_modules/minimatch/test/brace-expand.js" afterPath="$PROJECT_DIR$/node_modules/grunt/node_modules/minimatch/test/brace-expand.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/uglify-js/node_modules/optimist/node_modules/wordwrap/test/break.js" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/uglify-js/node_modules/optimist/node_modules/wordwrap/test/break.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/controllers.js" afterPath="$PROJECT_DIR$/js/controllers.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-jshint/node_modules/jshint/node_modules/cli/node_modules/glob/test/cwd-test.js" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-jshint/node_modules/jshint/node_modules/cli/node_modules/glob/test/cwd-test.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt/node_modules/glob/test/cwd-test.js" afterPath="$PROJECT_DIR$/node_modules/grunt/node_modules/glob/test/cwd-test.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-jshint/node_modules/jshint/node_modules/minimatch/test/defaults.js" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-jshint/node_modules/jshint/node_modules/minimatch/test/defaults.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt/node_modules/minimatch/test/defaults.js" afterPath="$PROJECT_DIR$/node_modules/grunt/node_modules/minimatch/test/defaults.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-jshint/node_modules/jshint/node_modules/minimatch/node_modules/lru-cache/test/foreach.js" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-jshint/node_modules/jshint/node_modules/minimatch/node_modules/lru-cache/test/foreach.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt/node_modules/minimatch/node_modules/lru-cache/test/foreach.js" afterPath="$PROJECT_DIR$/node_modules/grunt/node_modules/minimatch/node_modules/lru-cache/test/foreach.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-jshint/node_modules/jshint/node_modules/cli/node_modules/glob/examples/g.js" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-jshint/node_modules/jshint/node_modules/cli/node_modules/glob/examples/g.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt/node_modules/glob/examples/g.js" afterPath="$PROJECT_DIR$/node_modules/grunt/node_modules/glob/examples/g.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/uglify-js/node_modules/uglify-to-browserify/test/index.js" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/uglify-js/node_modules/uglify-to-browserify/test/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-jshint/node_modules/jshint/node_modules/cli/examples/long_desc.js" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-jshint/node_modules/jshint/node_modules/cli/examples/long_desc.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-jshint/node_modules/jshint/node_modules/cli/node_modules/glob/test/mark.js" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-jshint/node_modules/jshint/node_modules/cli/node_modules/glob/test/mark.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt/node_modules/glob/test/mark.js" afterPath="$PROJECT_DIR$/node_modules/grunt/node_modules/glob/test/mark.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-jshint/node_modules/jshint/node_modules/minimatch/node_modules/lru-cache/test/memory-leak.js" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-jshint/node_modules/jshint/node_modules/minimatch/node_modules/lru-cache/test/memory-leak.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt/node_modules/minimatch/node_modules/lru-cache/test/memory-leak.js" afterPath="$PROJECT_DIR$/node_modules/grunt/node_modules/minimatch/node_modules/lru-cache/test/memory-leak.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/neikan.js" afterPath="$PROJECT_DIR$/js/neikan.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-jshint/node_modules/jshint/node_modules/cli/node_modules/glob/test/nocase-nomagic.js" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-jshint/node_modules/jshint/node_modules/cli/node_modules/glob/test/nocase-nomagic.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt/node_modules/glob/test/nocase-nomagic.js" afterPath="$PROJECT_DIR$/node_modules/grunt/node_modules/glob/test/nocase-nomagic.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-jshint/node_modules/jshint/node_modules/cli/node_modules/glob/test/pause-resume.js" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-jshint/node_modules/jshint/node_modules/cli/node_modules/glob/test/pause-resume.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt/node_modules/glob/test/pause-resume.js" afterPath="$PROJECT_DIR$/node_modules/grunt/node_modules/glob/test/pause-resume.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-jshint/node_modules/jshint/node_modules/cli/node_modules/glob/test/root-nomount.js" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-jshint/node_modules/jshint/node_modules/cli/node_modules/glob/test/root-nomount.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt/node_modules/glob/test/root-nomount.js" afterPath="$PROJECT_DIR$/node_modules/grunt/node_modules/glob/test/root-nomount.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-jshint/node_modules/jshint/node_modules/cli/node_modules/glob/test/root.js" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-jshint/node_modules/jshint/node_modules/cli/node_modules/glob/test/root.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt/node_modules/glob/test/root.js" afterPath="$PROJECT_DIR$/node_modules/grunt/node_modules/glob/test/root.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-jshint/node_modules/jshint/node_modules/cli/node_modules/glob/test/stat.js" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-jshint/node_modules/jshint/node_modules/cli/node_modules/glob/test/stat.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/turnjs/turn.js" afterPath="$PROJECT_DIR$/lib/turnjs/turn.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/turnjs/turn.min.js" afterPath="$PROJECT_DIR$/lib/turnjs/turn.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-jshint/node_modules/jshint/node_modules/cli/node_modules/glob/examples/usr-local.js" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-jshint/node_modules/jshint/node_modules/cli/node_modules/glob/examples/usr-local.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt/node_modules/glob/examples/usr-local.js" afterPath="$PROJECT_DIR$/node_modules/grunt/node_modules/glob/examples/usr-local.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/partials/viewpage.html" afterPath="$PROJECT_DIR$/partials/viewpage.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="neikan.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="cae7603a-8d99-49c6-ad1d-a463ae411989" time="1384233118388" ignored="false" />
-    <file path="/neikan.js" changelist="cae7603a-8d99-49c6-ad1d-a463ae411989" time="1383194024184" ignored="false" />
-    <file path="/index.html" changelist="cae7603a-8d99-49c6-ad1d-a463ae411989" time="1383530281724" ignored="false" />
+    <file path="/Dummy.txt" changelist="cae7603a-8d99-49c6-ad1d-a463ae411989" time="1385451995724" ignored="false" />
+    <file path="/neikan.js" changelist="cae7603a-8d99-49c6-ad1d-a463ae411989" time="1385361739285" ignored="false" />
+    <file path="/index.html" changelist="cae7603a-8d99-49c6-ad1d-a463ae411989" time="1385452853776" ignored="false" />
     <file path="/magazine.html" changelist="cae7603a-8d99-49c6-ad1d-a463ae411989" time="1383096908044" ignored="false" />
     <file path="/gallery.html" changelist="cae7603a-8d99-49c6-ad1d-a463ae411989" time="1382706594775" ignored="false" />
     <file path="/controller.js" changelist="cae7603a-8d99-49c6-ad1d-a463ae411989" time="1382184105501" ignored="false" />
     <file path="$PROJECT_DIR$/../angular-phonecat/app/index.html" changelist="cae7603a-8d99-49c6-ad1d-a463ae411989" time="1382069085598" ignored="false" />
     <file path="$PROJECT_DIR$/../angular-phonecat/.gitignore" changelist="cae7603a-8d99-49c6-ad1d-a463ae411989" time="1382074394582" ignored="false" />
-    <file path="/test.html" changelist="cae7603a-8d99-49c6-ad1d-a463ae411989" time="1383504182499" ignored="false" />
+    <file path="/test.html" changelist="cae7603a-8d99-49c6-ad1d-a463ae411989" time="1385369594621" ignored="false" />
     <file path="$PROJECT_DIR$/../angular-phonecat/app/phones/phones.json" changelist="cae7603a-8d99-49c6-ad1d-a463ae411989" time="1382086350547" ignored="false" />
     <file path="/details.json" changelist="cae7603a-8d99-49c6-ad1d-a463ae411989" time="1383050694221" ignored="false" />
-    <file path="/dummy.xml" changelist="cae7603a-8d99-49c6-ad1d-a463ae411989" time="1383099572457" ignored="false" />
+    <file path="/dummy.xml" changelist="cae7603a-8d99-49c6-ad1d-a463ae411989" time="1385376557388" ignored="false" />
     <file path="$PROJECT_DIR$/../angular-phonecat/app/js/controllers.js" changelist="cae7603a-8d99-49c6-ad1d-a463ae411989" time="1382092371168" ignored="false" />
     <file path="/a.dummy" changelist="cae7603a-8d99-49c6-ad1d-a463ae411989" time="1383078638796" ignored="false" />
     <file path="/neikan.css" changelist="cae7603a-8d99-49c6-ad1d-a463ae411989" time="1382703872737" ignored="false" />
     <file path="/init-bootstrap.js" changelist="cae7603a-8d99-49c6-ad1d-a463ae411989" time="1382116833851" ignored="false" />
     <file path="/a.js" changelist="cae7603a-8d99-49c6-ad1d-a463ae411989" time="1382182920110" ignored="false" />
-    <file path="/a.java" changelist="cae7603a-8d99-49c6-ad1d-a463ae411989" time="1382182809237" ignored="false" />
+    <file path="/a.java" changelist="cae7603a-8d99-49c6-ad1d-a463ae411989" time="1384999346195" ignored="false" />
     <file path="/contents.html" changelist="cae7603a-8d99-49c6-ad1d-a463ae411989" time="1383102466589" ignored="false" />
-    <file path="/controllers.js" changelist="cae7603a-8d99-49c6-ad1d-a463ae411989" time="1383195319800" ignored="false" />
+    <file path="/controllers.js" changelist="cae7603a-8d99-49c6-ad1d-a463ae411989" time="1385437513467" ignored="false" />
     <file path="/fragment.java" changelist="cae7603a-8d99-49c6-ad1d-a463ae411989" time="1382208464485" ignored="false" />
     <file path="/testapp.js" changelist="cae7603a-8d99-49c6-ad1d-a463ae411989" time="1382271617962" ignored="false" />
     <file path="/contents.css" changelist="cae7603a-8d99-49c6-ad1d-a463ae411989" time="1383031116148" ignored="false" />
@@ -39,7 +275,7 @@
     <file path="/gallery-two.html" changelist="cae7603a-8d99-49c6-ad1d-a463ae411989" time="1383073025064" ignored="false" />
     <file path="/magazine.css" changelist="cae7603a-8d99-49c6-ad1d-a463ae411989" time="1383031816388" ignored="false" />
     <file path="/magazines.json" changelist="cae7603a-8d99-49c6-ad1d-a463ae411989" time="1383055625058" ignored="false" />
-    <file path="/*.regexp" changelist="cae7603a-8d99-49c6-ad1d-a463ae411989" time="1383501331656" ignored="false" />
+    <file path="/*.regexp" changelist="cae7603a-8d99-49c6-ad1d-a463ae411989" time="1385361752883" ignored="false" />
     <file path="/neikan-two.js" changelist="cae7603a-8d99-49c6-ad1d-a463ae411989" time="1383097655392" ignored="false" />
     <file path="/view.css" changelist="cae7603a-8d99-49c6-ad1d-a463ae411989" time="1383505548986" ignored="false" />
     <file path="/view.html" changelist="cae7603a-8d99-49c6-ad1d-a463ae411989" time="1383506415214" ignored="false" />
@@ -48,6 +284,11 @@
     <file path="/view-ie.css" changelist="cae7603a-8d99-49c6-ad1d-a463ae411989" time="1383507590155" ignored="false" />
     <file path="/packagejsie.bat" changelist="cae7603a-8d99-49c6-ad1d-a463ae411989" time="1383530352221" ignored="false" />
     <file path="/Gruntfile.js" changelist="cae7603a-8d99-49c6-ad1d-a463ae411989" time="1383818701721" ignored="false" />
+    <file path="/upload.js" changelist="cae7603a-8d99-49c6-ad1d-a463ae411989" time="1384871719243" ignored="false" />
+    <file path="/magazinetest.js" changelist="cae7603a-8d99-49c6-ad1d-a463ae411989" time="1384929924142" ignored="false" />
+    <file path="/index2.html" changelist="cae7603a-8d99-49c6-ad1d-a463ae411989" time="1385435271655" ignored="false" />
+    <file path="/.qrsignore" changelist="cae7603a-8d99-49c6-ad1d-a463ae411989" time="1385014129140" ignored="false" />
+    <file path="/viewpage.html" changelist="cae7603a-8d99-49c6-ad1d-a463ae411989" time="1385448139667" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -107,80 +348,7 @@
     <favorites_list name="neikan" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="2" selection-start="257" selection-end="257" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="magazine-two.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/partials/magazine-two.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Gruntfile.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Gruntfile.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="16" selection-start="404" selection-end="404" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="contents-two.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/partials/contents-two.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="contents.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/partials/contents.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="gallery.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/partials/gallery.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="view.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/partials/view.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="26" column="0" selection-start="1067" selection-end="1067" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="viewpage.html" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/partials/viewpage.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="45" column="16" selection-start="1936" selection-end="1936" vertical-scroll-proportion="0.78486055">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -198,22 +366,22 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/script/dir.txt" />
-        <option value="$PROJECT_DIR$/lib/json2.js" />
-        <option value="$PROJECT_DIR$/lib/respond/respond.min.js" />
-        <option value="$PROJECT_DIR$/lib/respond/html5shiv.js" />
-        <option value="$PROJECT_DIR$/test.html" />
-        <option value="$PROJECT_DIR$/css/view-ie8.css" />
-        <option value="$PROJECT_DIR$/css/view-ie.css" />
-        <option value="$PROJECT_DIR$/css/view.css" />
-        <option value="$PROJECT_DIR$/js/slide-ie.js" />
-        <option value="$PROJECT_DIR$/script/dirie.txt" />
-        <option value="$PROJECT_DIR$/script/packagejsie.bat" />
-        <option value="$PROJECT_DIR$/build/neikan.min.js" />
-        <option value="$PROJECT_DIR$/package.json" />
-        <option value="$PROJECT_DIR$/Gruntfile.js" />
+        <option value="$PROJECT_DIR$/turnjs/demos/magazine/test.html" />
+        <option value="$PROJECT_DIR$/turnjs/demos/magazine/index.html" />
+        <option value="$PROJECT_DIR$/turnjs/test.html" />
+        <option value="$PROJECT_DIR$/turntest/samples/magazine/index.html" />
+        <option value="$PROJECT_DIR$/upload.js" />
+        <option value="$PROJECT_DIR$/conf.json" />
+        <option value="$PROJECT_DIR$/qrsignore.txt" />
+        <option value="$PROJECT_DIR$/.qrsignore" />
+        <option value="$PROJECT_DIR$/partials/contents-two.html" />
+        <option value="$PROJECT_DIR$/partials/magazine-two.html" />
+        <option value="$PROJECT_DIR$/turntest/samples/magazine/test.html" />
+        <option value="$PROJECT_DIR$/turntest/samples/magazine/index2.html" />
+        <option value="$PROJECT_DIR$/js/neikan.js" />
+        <option value="$PROJECT_DIR$/partials/viewpage.html" />
         <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/partials/view.html" />
+        <option value="$PROJECT_DIR$/js/controllers.js" />
       </list>
     </option>
   </component>
@@ -266,6 +434,7 @@
       <pane id="PackagesPane">
         <subPane />
       </pane>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -294,39 +463,199 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="turntest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="neikan" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="neikan" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="turntest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="samples" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="neikan" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="neikan" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="turntest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="samples" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="magazine" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="neikan" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="neikan" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="turntest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="samples" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="magazine" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="neikan" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="neikan" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="turntest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="samples" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="magazine" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="neikan" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="neikan" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="turntest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lib" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="neikan" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="neikan" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="turntest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="extras" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="neikan" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="neikan" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resource" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="neikan" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="neikan" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resource" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="10" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="neikan" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="neikan" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resource" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="09" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="neikan" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="neikan" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="partials" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="neikan" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="neikan" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lib" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="turnjs" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="neikan" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="neikan" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lib" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -344,20 +673,33 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="neikan" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="neikan" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="GoToFile.includeJavaFiles" value="false" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="recentsLimit" value="5" />
     <property name="MemberChooser.sorted" value="false" />
-    <property name="options.lastSelected" value="preferences.pluginManager" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../angular-phonecat" />
+    <property name="options.lastSelected" value="preferences.sourceCode.General" />
+    <property name="last_opened_file_path" value="C:/Program Files/Git/bin/git.exe" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
     <property name="GoToClass.includeJavaFiles" value="true" />
@@ -381,18 +723,18 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\github\neikan\partials" />
-      <recent name="E:\github\neikan\script" />
-      <recent name="E:\github\neikan\css" />
-      <recent name="E:\github\neikan\lib\respond" />
-      <recent name="E:\github\neikan\resource\09" />
+      <recent name="E:\github\neikan\resource\10" />
+      <recent name="E:\github\neikan\lib\iecompatible\modernizr" />
+      <recent name="E:\github\neikan\lib\turnjs" />
+      <recent name="E:\github\neikan\turntest\samples\magazine" />
+      <recent name="E:\github\neikan\turntest\samples\magazine\pages" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="E:\github\neikan\lib\turnjs" />
+      <recent name="E:\github\neikan\resource\10" />
+      <recent name="E:\github\neikan\lib\angular" />
+      <recent name="E:\github\neikan\node_modules" />
       <recent name="E:\github\neikan" />
-      <recent name="E:\github\neikan\lib\iecompatible\modernizr" />
-      <recent name="E:\github\neikan\lib\iecompatible" />
-      <recent name="E:\github\neikan\lib\respond" />
+      <recent name="E:\github\neikan\turntest\extras" />
     </key>
   </component>
   <component name="RunManager" selected="Node.js.web-server.js">
@@ -532,22 +874,22 @@
     <frame x="61" y="-8" width="1867" height="1216" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32923368" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24958949" sideWeight="0.8098392" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="JSON Formatter" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32923368" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.21401204" sideWeight="0.8098392" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.21401204" sideWeight="0.81173134" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.21401204" sideWeight="0.30936614" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="true" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.19281663" sideWeight="0.500821" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.19016083" sideWeight="0.49917898" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18826869" sideWeight="0.49917898" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32923368" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32923368" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -617,102 +959,114 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/neikan.iml">
+    <entry file="file://$PROJECT_DIR$/turntest/samples/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/neikan.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="0" selection-start="512" selection-end="512" vertical-scroll-proportion="0.33268481" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/slide-ie.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="3" selection-start="380" selection-end="380" vertical-scroll-proportion="0.21011673" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="0" selection-start="309" selection-end="309" vertical-scroll-proportion="0.23306774">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/build/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="53" selection-start="989" selection-end="989" vertical-scroll-proportion="0.25428858" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/build/view.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/view-ie.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="1" selection-start="506" selection-end="506" vertical-scroll-proportion="0.36770427" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Gruntfile.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="16" selection-start="404" selection-end="404" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="29" column="7" selection-start="762" selection-end="762" vertical-scroll-proportion="0.6304348" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/conf.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="2" selection-start="257" selection-end="257" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/partials/magazine-two.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/partials/contents-two.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/home.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/partials/contents.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/partials/gallery.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+        <state line="6" column="1" selection-start="193" selection-end="193" vertical-scroll-proportion="0.13432837">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/partials/view.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="0" selection-start="1067" selection-end="1067" vertical-scroll-proportion="0.0">
+        <state line="18" column="69" selection-start="867" selection-end="867" vertical-scroll-proportion="0.40298507">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/turntest/samples/magazine/test.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="0" selection-start="642" selection-end="642" vertical-scroll-proportion="0.51492536">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/lib/JavascriptLanguage.jar!/com/intellij/lang/javascript/index/predefined/EcmaScript.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="30" column="0" selection-start="352" selection-end="352" vertical-scroll-proportion="0.26086956" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/turntest/samples/magazine/css/magazine.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="29" column="1" selection-start="423" selection-end="423" vertical-scroll-proportion="0.021712907">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/view-ie.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/neikan.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="7" selection-start="667" selection-end="667" vertical-scroll-proportion="0.47768396">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resource/10/details.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/turntest/samples/magazine/index2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="160" column="0" selection-start="3456" selection-end="3456" vertical-scroll-proportion="3.5776398">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="28" column="3" selection-start="833" selection-end="856" vertical-scroll-proportion="0.62608695">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="33" column="65" selection-start="1089" selection-end="1089" vertical-scroll-proportion="0.4695652">
+          <folding>
+            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <marker date="1385452895047" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1385452895047" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/turntest/samples/magazine/js/magazine.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/controllers.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="80" column="37" selection-start="2399" selection-end="2399" vertical-scroll-proportion="0.54282266">
+          <folding>
+            <element signature="n#!!block;n#ViewCtrl#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/partials/viewpage.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="45" column="16" selection-start="1936" selection-end="1936" vertical-scroll-proportion="0.78486055">
+        <state line="32" column="38" selection-start="1267" selection-end="1267" vertical-scroll-proportion="0.51428574">
           <folding />
         </state>
       </provider>
@@ -770,7 +1124,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>neikan</last-edited>
+          <last-edited>turnjs</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

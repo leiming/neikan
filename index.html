@@ -1,11 +1,10 @@
 <!DOCTYPE html>
-<html lang="zh-CN" id="ng-app" ng-app="neikanApp">
+<html xmlns:ng="http://angularjs.org" id="ng-app" lang="zh-CN" ng-app="neikanApp">
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>360er</title>
   <link href="lib/css/bootstrap.min.css" rel="stylesheet">
-
   
   <meta name=”renderer” content=”webkit|ie-stand”>
 
@@ -28,7 +27,7 @@
   <![endif]-->
 
 
-  <!--[if lt IE 9]>
+  <!--[if lte IE 9]>
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <script src="lib/iecompatible/json/json3.min.js"></script>
   <script src="lib/iecompatible/html5shiv/html5shiv.js"></script>
@@ -37,12 +36,13 @@
   <!--  <script src="script/360erie.js"></script>-->
 
 
-
   <script src="lib/jquery/jquery-1.10.2.js"></script>
   <script src="lib/bootstrap/bootstrap.js"></script>
   <script src="lib/angular/angular.js"></script>
   <script src="lib/angular/angular-animate.js"></script>
   <script src="lib/angular/angular-route.js"></script>
+  <script src="lib/iecompatible/modernizr/modernizr.custom.81870.js"></script>
+<!--  <script type="text/javascript" src="lib/turnjs/turn.js"></script>-->
 
   <script src="js/neikan.js"></script>
   <script src="js/controllers.js"></script>
@@ -56,4 +56,6 @@
 <div ng-view style="height: 100%" ng-style="{'height': '100%'}"></div>
 
 </body>
+
+
 </html>

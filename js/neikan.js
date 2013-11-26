@@ -7,11 +7,17 @@ var myApp = angular.module('neikanApp', [
     ]).config([
       '$routeProvider', function ($routeProvider) {
 
-        $routeProvider.when('/', {
+        $routeProvider
+            .when('/page', {
+              templateUrl: 'partials/viewpage.html',
+              controller : 'ViewPageCtrl'})
+            .when('/', {
               templateUrl: 'partials/view.html',
-              controller : 'ViewCtrl'}).when('/:pageId', {
+              controller : 'ViewCtrl'})
+            .when('/:pageId', {
               templateUrl: 'partials/view.html',
-              controller : 'ViewCtrl'}).otherwise({
+              controller : 'ViewCtrl'})
+            .otherwise({
               redirectTo: "/"
             });
       }

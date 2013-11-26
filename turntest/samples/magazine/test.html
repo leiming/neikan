@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>test</title>
+  <meta http-equiv="Content-Type" content="text/html;charset=UTF-8"/>
+  <script type="text/javascript" src="../../extras/jquery.min.1.7.js"></script>
+  <script type="text/javascript" src="../../extras/modernizr.custom.81870.js"></script>
+  <!--  <script type="text/javascript" src="../../extras/modernizr.2.5.3.min.js"></script>-->
+</head>
+<body>
+
+<div id="flipbook">
+  <img src="pages/1-large.jpg" alt=""/>
+  <img src="pages/2-large.jpg" alt=""/>
+</div>
+
+<script type="text/javascript">
+
+  function loadApp() {
+    $("#flipbook").turn({
+      height:'100%',
+      autoCenter: true
+    });
+
+  }
+
+  Modernizr.load({
+    test    : Modernizr.csstransforms,
+    yep     : ['../../lib/turn.min.js'],
+    nope    : ['../../lib/turn.html4.min.js']
+  });
+
+</script>
+</body>
+</html>
