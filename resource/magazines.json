@@ -1,50 +1,18 @@
 [
   {
     "id"        : "01",
-    "name"      : "第一期",
-    "link"      : "01",
-    "thumbnail" : "",
-    "cover"     : "cover01",
-    "imageCount": "6"
-  },
-  {
-    "id"        : "02",
-    "name"      : "第二期",
-    "link"      : "02",
-    "thumbnail" : "",
-    "cover"     : "cover01",
-    "imageCount": "6"
-  },
-  {
-    "id"        : "03",
-    "name"      : "第三期",
-    "link"      : "03",
-    "thumbnail" : "",
-    "cover"     : "cover01",
-    "imageCount": "6"
-  },
-  {
-    "id"        : "04",
-    "name"      : "第四期",
-    "link"      : "04",
-    "thumbnail" : "",
-    "cover"     : "cover01",
-    "imageCount": "6"
-  },
-  {
-    "id"        : "05",
-    "name"      : "第五期",
-    "link"      : "05",
-    "thumbnail" : "",
-    "cover"     : "cover01",
-    "imageCount": "6"
-  },
-  {
-    "id"        : "09",
     "name"      : "第九期",
     "link"      : "09",
     "thumbnail" : "",
-    "cover"     : "cover09",
-    "imageCount": "6"
+    "bg"        : "cover01",
+    "imageCount": "21"
+  },
+  {
+    "id"        : "02",
+    "name"      : "第十期",
+    "link"      : "10",
+    "thumbnail" : "",
+    "bg"        : "cover01",
+    "imageCount": "16"
   }
 ]

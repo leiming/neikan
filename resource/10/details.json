@@ -3,6 +3,7 @@
     "column_name"    : "首页",
     "column_hide"    : true,
     "column_describe": "《360er》封面Cover",
+    "image_count"    : 16,
     "article"        : [
       {
         "title"     : "封面",

@@ -74,3 +74,8 @@ body, html {
 .carousel-control .icon-prev, .carousel-control .icon-next {
     font-size: 60px;
 }
+
+.item-content{
+    width: 50%;
+    float: left;
+}

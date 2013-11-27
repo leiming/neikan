@@ -8,17 +8,25 @@ var myApp = angular.module('neikanApp', [
       '$routeProvider', function ($routeProvider) {
 
         $routeProvider
-            .when('/page', {
+/*            .when('/page', {
               templateUrl: 'partials/viewpage.html',
-              controller : 'ViewPageCtrl'})
+              controller : 'ViewPageCtrl'})*/
+            .when('/:magId', {
+              templateUrl: 'partials/view-double.html',
+              controller : 'ViewDoubleCtrl'})
+            .when('/:magId/:doublePageId', {
+              templateUrl: 'partials/view-double.html',
+              controller : 'ViewDoubleCtrl'})
             .when('/', {
               templateUrl: 'partials/view.html',
               controller : 'ViewCtrl'})
-            .when('/:pageId', {
+       /*     .when('/:pageId', {
               templateUrl: 'partials/view.html',
-              controller : 'ViewCtrl'})
+              controller : 'ViewCtrl'})*/
+            .when('/error', {
+              templateUrl: '404.html'})
             .otherwise({
-              redirectTo: "/"
+              redirectTo: "/error"
             });
       }
     ]);
