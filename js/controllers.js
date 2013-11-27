@@ -7,18 +7,17 @@ neikanControllers.controller('MagazineCtrl', ['$scope', '$routeParams', '$http' 
 neikanControllers.controller('ContentsCtrl', ['$scope', '$routeParams', '$http' , ContentsCtrl]);
 neikanControllers.controller('TestCtrl', ['$scope', '$routeParams', '$http' , TestCtrl]);
 neikanControllers.controller('ViewCtrl', ['$scope', '$routeParams', '$http' , ViewCtrl]);
-neikanControllers.controller('ViewDoubleCtrl', ['$scope', '$routeParams', '$http', '$location' , ViewDoubleCtrl]);
-neikanControllers.controller('ViewPageCtrl', ['$scope', '$routeParams', '$http' , ViewPageCtrl]);
+neikanControllers.controller('ViewDoubleCtrl', ['$scope', '$routeParams', '$http', '$location','$document' , ViewDoubleCtrl]);
+neikanControllers.controller('ViewPageCtrl', ['$scope', '$routeParams', '$http', ViewPageCtrl]);
 
-function ViewDoubleCtrl($scope, $routeParams, $http, $location) {
+function ViewDoubleCtrl($scope, $routeParams, $http, $location, $document) {
 
   // 根据imgId检索对应json文件，获取columns、article、imageCount
   console.log($routeParams.magId);
   if ($routeParams.magId) {
     $scope.magId = $routeParams.magId;
     //初始化columns和articles
-    $http.get("/resource/" + $scope.magId + "/details.json")
-    .success(function (data) {
+    $http.get("/resource/" + $scope.magId + "/details.json").success(function (data) {
           $scope.columns = data;
           $scope.imageCount = $scope.columns[0].image_count;
           // 获得不带专栏的文章标题列表，存储于$scope.articles中
@@ -34,8 +33,7 @@ function ViewDoubleCtrl($scope, $routeParams, $http, $location) {
           $scope.articles = articles;
           initMagImages();
           initPage();
-        })
-    .error(function (data) {
+        }).error(function (data) {
           $location.path('/');
         });
   }
@@ -43,16 +41,16 @@ function ViewDoubleCtrl($scope, $routeParams, $http, $location) {
   // 根据mag.imageCount初始化图片数组
   function initMagImages() {
     $scope.magImages = [];
-    for (var k = 0; k < $scope.imageCount+1; k++) {
+    for (var k = 0; k < $scope.imageCount + 1; k++) {
       $scope.magImages.push(k);
     }
   }
 
-  function initPage(){
+  function initPage() {
     if ($routeParams.doublePageId && checkdoublePageId($routeParams.doublePageId)) {
       $scope.pageId = $routeParams.doublePageId * 2;
-    } else {
-      console.log('false');
+    } else if ($routeParams.doublePageId !== undefined) {
+      console.log("pageId is not allow");
       $location.path('/' + $scope.magId);
     }
 
@@ -63,18 +61,47 @@ function ViewDoubleCtrl($scope, $routeParams, $http, $location) {
       }
       // 根据总图像数量计算出doublePageId的最大有效值pageCount
       var pageCount = Math.round($scope.imageCount / 2);
-      return (doublePageId <= pageCount && doublePageId >= 0) ? doublePageId: false;
+      return (doublePageId <= pageCount && doublePageId >= 0) ? doublePageId : false;
     }
 
   }
 
+  //翻页后carousel不自动旋转逻辑
   $('#carousel').on('slide.bs.carousel', function () {
     $('#carousel').carousel("pause");
-  })
+  });
 
   $('#carousel').on('slid.bs.carousel', function () {
     $('#carousel').carousel("pause");
-  })
+  });
+
+  //左右键翻页
+  $document.on('keydown',function(event){
+    console.log(event.which);
+
+    var previous = 37, next = 39, esc = 27;
+
+    switch (event.which) {
+      case previous:
+        // left arrow
+        $('#carousel').carousel('prev');
+        event.preventDefault();
+
+        break;
+      case next:
+
+        //right arrow
+        $('#carousel').carousel('next');
+        event.preventDefault();
+
+        break;
+      case esc:
+
+        //$('#carousel').zoomOut('prev');
+        // event.preventDefault();
+        break;
+    }
+  });
 
   //返回奇数的函数
   $scope.isEven = function (n) {

@@ -6,6 +6,7 @@
 
 
 <div class="container max-width-container max-height no-overflow">
+
   <div class="row max-height">
     <div class="col-md-2 scrollable sidebar">
       <div class="input-group">
@@ -17,7 +18,7 @@
           <a href="" data-target="#carousel"
              ng-class="{active:(pageId?pageId:0) == getDoublePage(article.image_page)}"
              data-slide-to="{{article.image_page}}">{{article.title}}
-            <small ng-show="{{article.page}}">第{{article.page}}页 {{article.image_page}}</small>
+            <small ng-show="{{article.page}}">第{{article.page}}页</small>
           </a>
         </li>
       </ul>
@@ -33,9 +34,8 @@
           <div class="carousel-inner">
             <div class="item" ng-repeat="i in magImages | filter:isEven"
                  ng-class="{active:(pageId?pageId:0) == i}">
-              {{i}}--{{$index}}
               <img class="item-content" ng-src="resource/{{magId}}/{{i}}.png"/>
-              <img class="item-content" ng-src="resource/{{magId}}/{{i+1}}.png" ng-hide="i+1>=imageCount"/>
+              <img class="item-content" ng-src="resource/{{magId}}/{{i+1}}.png" ng-if="i+1<=imageCount"/>
             </div>
           </div>
 
